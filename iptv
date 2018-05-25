@@ -1,1433 +1,659 @@
 #EXTM3U
+#EXTINF:-1,USA: Tsn-Sport 5 HD
+http://109.239.57.94:8000/live/4zt46DF9p5/stypmDK0vl/3.ts
+#EXTINF:-1,USA: Tsn-Sport 4 HD
+http://109.239.57.94:8000/live/4zt46DF9p5/stypmDK0vl/4.ts
+#EXTINF:-1,USA: Tsn-Sport 3 HD
+http://109.239.57.94:8000/live/4zt46DF9p5/stypmDK0vl/5.ts
+#EXTINF:-1,USA: Tsn-Sport 2 HD
+http://109.239.57.94:8000/live/4zt46DF9p5/stypmDK0vl/6.ts
+#EXTINF:-1,USA: Tsn-Sport 1 HD
+http://109.239.57.94:8000/live/4zt46DF9p5/stypmDK0vl/7.ts
 
-#EXTINF:-1,US:CNN_HD
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/2157.ts
-#EXTINF:-1,US:Discovery_Science
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/2160.ts
-#EXTINF:-1,US:E!
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/2158.ts
-#EXTINF:-1,USA:ABC_News_HD
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/1075.ts
-#EXTINF:-1,USA:Bein_Sports_HD_usa
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/1076.ts
-#EXTINF:-1,US:E4-HD
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/2164.ts
-#EXTINF:-1,US:FOXSPORT_2HD
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/2151.ts
-#EXTINF:-1,US:FOXX_HD
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/2150.ts
-#EXTINF:-1,US:HBO
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/2154.ts
-#EXTINF:-1,US:HBO_SignatureHD
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/2163.ts
-#EXTINF:-1,US:HISTORY_HD
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/2162.ts
-#EXTINF:-1,US:National_Geographic
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/2161.ts
-#EXTINF:-1,US:NBC_GOLF
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/2156.ts
-#EXTINF:-1,US:NBC_HD
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/2155.ts
-#EXTINF:-1,US:ShowTime_HD
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/2152.ts
-#EXTINF:-1,US:Showtime_Showcase
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/2153.ts
-#EXTINF:-1,US:TNT_HD
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/2149.ts
-#EXTINF:-1,UK:QUEST
-http://ip.123sat.net:7200/live/MESTRECODE/34ERDFFCCV/875.ts
+#EXTINF:-1,US | ABC HD
+http://192.99.100.74:8080/live/dancan/dancan/7612.ts
+#EXTINF:-1,US | AMC HD
+http://192.99.100.74:8080/live/dancan/dancan/7611.ts
+#EXTINF:-1,US | BNN HD
+http://192.99.100.74:8080/live/dancan/dancan/7610.ts
+#EXTINF:-1,US | BRAVO HD
+http://192.99.100.74:8080/live/dancan/dancan/7609.ts
+#EXTINF:-1,US | CBC HD
+http://192.99.100.74:8080/live/dancan/dancan/7608.ts
+#EXTINF:-1,US | CBC NEWS HD
+http://192.99.100.74:8080/live/dancan/dancan/7607.ts
+#EXTINF:-1,US | CBS HD
+http://192.99.100.74:8080/live/dancan/dancan/7606.ts
+#EXTINF:-1,US | CITY HD
+http://192.99.100.74:8080/live/dancan/dancan/7605.ts
+#EXTINF:-1,US | CNN HD
+http://192.99.100.74:8080/live/dancan/dancan/7604.ts
+#EXTINF:-1,US | CP 24 HD
+http://192.99.100.74:8080/live/dancan/dancan/7603.ts
+#EXTINF:-1,US | CREATE HD
+http://192.99.100.74:8080/live/dancan/dancan/7602.ts
+#EXTINF:-1,US | CTV HD
+http://192.99.100.74:8080/live/dancan/dancan/7601.ts
+#EXTINF:-1,US | CW HD
+http://192.99.100.74:8080/live/dancan/dancan/7600.ts
+#EXTINF:-1,US | DISNEY JR HD
+http://192.99.100.74:8080/live/dancan/dancan/7599.ts
+#EXTINF:-1,US | DIY NETWORK HD
+http://192.99.100.74:8080/live/dancan/dancan/7598.ts
+#EXTINF:-1,US | E! HD
+http://192.99.100.74:8080/live/dancan/dancan/7597.ts
+#EXTINF:-1,US | Food Network HD
+http://192.99.100.74:8080/live/dancan/dancan/7596.ts
+#EXTINF:-1,US | FOX HD
+http://192.99.100.74:8080/live/dancan/dancan/7595.ts
+#EXTINF:-1,US | FX HD
+http://192.99.100.74:8080/live/dancan/dancan/7594.ts
+#EXTINF:-1,US | FXX HD
+http://192.99.100.74:8080/live/dancan/dancan/7593.ts
+#EXTINF:-1,US | GLOBAL HD
+http://192.99.100.74:8080/live/dancan/dancan/7592.ts
+#EXTINF:-1,US | GSN HD
+http://192.99.100.74:8080/live/dancan/dancan/7591.ts
+#EXTINF:-1,US | HBO 2
+http://192.99.100.74:8080/live/dancan/dancan/7590.ts
+#EXTINF:-1,US | HBO HD
+http://192.99.100.74:8080/live/dancan/dancan/7589.ts
+#EXTINF:-1,US | HGTV HD*
+http://192.99.100.74:8080/live/dancan/dancan/7588.ts
+#EXTINF:-1,US | HISTORY HD
+http://192.99.100.74:8080/live/dancan/dancan/7587.ts
+#EXTINF:-1,US | HLN HD
+http://192.99.100.74:8080/live/dancan/dancan/7586.ts
+#EXTINF:-1,US | Lifetime HD
+http://192.99.100.74:8080/live/dancan/dancan/7585.ts
+#EXTINF:-1,US | ME TV HD
+http://192.99.100.74:8080/live/dancan/dancan/7584.ts
+#EXTINF:-1,US | MOVIES HD
+http://192.99.100.74:8080/live/dancan/dancan/7583.ts
+#EXTINF:-1,US | MSNBC HD
+http://192.99.100.74:8080/live/dancan/dancan/7582.ts
+#EXTINF:-1,US | NAT GEO HD
+http://192.99.100.74:8080/live/dancan/dancan/7581.ts
+#EXTINF:-1,US | NAT GEO WILD HD
+http://192.99.100.74:8080/live/dancan/dancan/7580.ts
+#EXTINF:-1,US | NBC FHD
+http://192.99.100.74:8080/live/dancan/dancan/7579.ts
+#EXTINF:-1,US | OWN HD
+http://192.99.100.74:8080/live/dancan/dancan/7578.ts
+#EXTINF:-1,US | PBS HD
+http://192.99.100.74:8080/live/dancan/dancan/7576.ts
+#EXTINF:-1,US | PEACH TREE HD
+http://192.99.100.74:8080/live/dancan/dancan/7574.ts
+#EXTINF:-1,US | SHOWCASE HD
+http://192.99.100.74:8080/live/dancan/dancan/7573.ts
+#EXTINF:-1,US | SLICE HD
+http://192.99.100.74:8080/live/dancan/dancan/7572.ts
+#EXTINF:-1,US | SN ONE
+http://192.99.100.74:8080/live/dancan/dancan/7571.ts
+#EXTINF:-1,US | SPACE HD
+http://192.99.100.74:8080/live/dancan/dancan/7570.ts
+#EXTINF:-1,US | THE WEATHER CHANNEL HD
+http://192.99.100.74:8080/live/dancan/dancan/7614.ts
+#EXTINF:-1,US | TLC HD
+http://192.99.100.74:8080/live/dancan/dancan/7569.ts
+#EXTINF:-1,US | WORLD HD
+http://192.99.100.74:8080/live/dancan/dancan/7568.ts
+#EXTINF:-1,ENG | NBC New-York
+http://192.99.100.74:8080/live/dancan/dancan/442.ts
+#EXTINF:-1,ENG | MSNBC HD
+http://192.99.100.74:8080/live/dancan/dancan/425.ts
+#EXTINF:-1,ENG | Lifetime HD US
+http://192.99.100.74:8080/live/dancan/dancan/428.ts
+#EXTINF:-1,ENG | Tru TV HD
+http://192.99.100.74:8080/live/dancan/dancan/445.ts
+#EXTINF:-1,SPORTS | FIGHT NETWORK
+http://192.99.100.74:8080/live/dancan/dancan/433.ts
+#EXTINF:-1,ENG | CNN US
+http://192.99.100.74:8080/live/dancan/dancan/421.ts
+#EXTINF:-1,ENG | OWN HD
+http://192.99.100.74:8080/live/dancan/dancan/1284.ts
+#EXTINF:-1,ENG | WE TV HD
+http://192.99.100.74:8080/live/dancan/dancan/2781.ts
+#EXTINF:-1,ENG | ActionMax East HD
+http://192.99.100.74:8080/live/dancan/dancan/2790.ts
+#EXTINF:-1,ENG | TV Land HD
+http://192.99.100.74:8080/live/dancan/dancan/2794.ts
+#EXTINF:-1,ENG | CNBC US
+http://192.99.100.74:8080/live/dancan/dancan/424.ts
+#EXTINF:-1,ENG | CBS New-York
+http://192.99.100.74:8080/live/dancan/dancan/441.ts
+#EXTINF:-1,ENG | ABC New-York
+http://192.99.100.74:8080/live/dancan/dancan/440.ts
+#EXTINF:-1,ENG | FOX 5
+http://192.99.100.74:8080/live/dancan/dancan/419.ts
+#EXTINF:-1,ENG | USA Network HD
+http://192.99.100.74:8080/live/dancan/dancan/101.ts
+#EXTINF:-1,ENG | Universal Channel HD USA
+http://192.99.100.74:8080/live/dancan/dancan/164.ts
+#EXTINF:-1,ENG | WGN News
+http://192.99.100.74:8080/live/dancan/dancan/678.ts
+#EXTINF:-1,ENG | WeatherNation
+http://192.99.100.74:8080/live/dancan/dancan/682.ts
+#EXTINF:-1,ENG | TRT World
+http://192.99.100.74:8080/live/dancan/dancan/687.ts
+#EXTINF:-1,ENG | RT International
+http://192.99.100.74:8080/live/dancan/dancan/688.ts
+#EXTINF:-1,ENG | RT Documentary
+http://192.99.100.74:8080/live/dancan/dancan/674.ts
+#EXTINF:-1,ENG | RT US
+http://192.99.100.74:8080/live/dancan/dancan/677.ts
+#EXTINF:-1,ENG | RT UK
+http://192.99.100.74:8080/live/dancan/dancan/684.ts
+#EXTINF:-1,ENG | Destination America
+http://192.99.100.74:8080/live/dancan/dancan/1117.ts
+#EXTINF:-1,ENG | France 24
+http://192.99.100.74:8080/live/dancan/dancan/689.ts
+#EXTINF:-1,ENG | Euronews
+http://192.99.100.74:8080/live/dancan/dancan/691.ts
+#EXTINF:-1,ENG | Deutsche Welle
+http://192.99.100.74:8080/live/dancan/dancan/694.ts
+#EXTINF:-1,ENG | CHching!
+http://192.99.100.74:8080/live/dancan/dancan/699.ts
+#EXTINF:-1,ENG | BET HD
+http://192.99.100.74:8080/live/dancan/dancan/20374.ts
+#EXTINF:-1,ENG | CBS News
+http://192.99.100.74:8080/live/dancan/dancan/676.ts
+#EXTINF:-1,ENG | C-Span
+http://192.99.100.74:8080/live/dancan/dancan/679.ts
+#EXTINF:-1,ENG | C-Span  Book TV
+http://192.99.100.74:8080/live/dancan/dancan/680.ts
+#EXTINF:-1,ENG | C-Span American History TV
+http://192.99.100.74:8080/live/dancan/dancan/681.ts
+#EXTINF:-1,ENG | Bloomberg TV UK
+http://192.99.100.74:8080/live/dancan/dancan/685.ts
+#EXTINF:-1,ENG | Al Jazeera
+http://192.99.100.74:8080/live/dancan/dancan/692.ts
+#EXTINF:-1,ENG | TNT
+http://192.99.100.74:8080/live/dancan/dancan/94.ts
+#EXTINF:-1,ENG | TLC HD.
+http://192.99.100.74:8080/live/dancan/dancan/52.ts
+#EXTINF:-1,ENG | TBS HD
+http://192.99.100.74:8080/live/dancan/dancan/55.ts
+#EXTINF:-1,ENG | SYFY USA
+http://192.99.100.74:8080/live/dancan/dancan/163.ts
+#EXTINF:-1,ENG | SPIKE HD
+http://192.99.100.74:8080/live/dancan/dancan/161.ts
+#EXTINF:-1,ENG | PBS HD
+http://192.99.100.74:8080/live/dancan/dancan/98.ts
+#EXTINF:-1,SPORTS | NBC Sports Networks HD
+http://192.99.100.74:8080/live/dancan/dancan/99.ts
+#EXTINF:-1,ENG | Lifetime HD
+http://192.99.100.74:8080/live/dancan/dancan/71.ts
+#EXTINF:-1,ENG | HBO 2
+http://192.99.100.74:8080/live/dancan/dancan/12.ts
+#EXTINF:-1,ENG | H2 HD
+http://192.99.100.74:8080/live/dancan/dancan/15.ts
+#EXTINF:-1,ENG | Hallmark HD
+http://192.99.100.74:8080/live/dancan/dancan/1285.ts
+#EXTINF:-1,ENG | FX HD.
+http://192.99.100.74:8080/live/dancan/dancan/53.ts
+#EXTINF:-1,KIDS | Nick 2 HD SP
+http://192.99.100.74:8080/live/dancan/dancan/490.ts
+#EXTINF:-1,KIDS | Disney XD
+http://192.99.100.74:8080/live/dancan/dancan/486.ts
+#EXTINF:-1,KIDS | Disney Jr
+http://192.99.100.74:8080/live/dancan/dancan/485.ts
+#EXTINF:-1,KIDS | Disney Channel
+http://192.99.100.74:8080/live/dancan/dancan/484.ts
+#EXTINF:-1,KIDS | Cartoon Network
+http://192.99.100.74:8080/live/dancan/dancan/488.ts
+#EXTINF:-1,KIDS | Boomerang ENG
+http://192.99.100.74:8080/live/dancan/dancan/487.ts
+#EXTINF:-1,KIDS | Nickelodeon ENG
+http://192.99.100.74:8080/live/dancan/dancan/489.ts
+#EXTINF:-1,ENG | FOX NEWS HD
+http://192.99.100.74:8080/live/dancan/dancan/37.ts
+#EXTINF:-1,ENG | Food Network HD
+http://192.99.100.74:8080/live/dancan/dancan/9.ts
+#EXTINF:-1,ENG | E! HD.
+http://192.99.100.74:8080/live/dancan/dancan/57.ts
+#EXTINF:-1,ENG | DIY NETWORK HD
+http://192.99.100.74:8080/live/dancan/dancan/75.ts
+#EXTINF:-1,KIDS | Disney XD ENG
+http://192.99.100.74:8080/live/dancan/dancan/24.ts
+#EXTINF:-1,KIDS | Disney HD USA
+http://192.99.100.74:8080/live/dancan/dancan/22.ts
+#EXTINF:-1,ENG | NAT GEO WILD
+http://192.99.100.74:8080/live/dancan/dancan/40.ts
+#EXTINF:-1,ENG | NATIONAL GEOGRAPHIC HD US
+http://192.99.100.74:8080/live/dancan/dancan/28.ts
+#EXTINF:-1,ENG | History Channel
+http://192.99.100.74:8080/live/dancan/dancan/72.ts
+#EXTINF:-1,ENG | Discovery Turbo
+http://192.99.100.74:8080/live/dancan/dancan/109.ts
+#EXTINF:-1,ENG | Investigation Discovery HD
+http://192.99.100.74:8080/live/dancan/dancan/2.ts
+#EXTINF:-1,ENG | Discovery Velocity HD
+http://192.99.100.74:8080/live/dancan/dancan/106.ts
+#EXTINF:-1,ENG | DISCOVERY HD.
+http://192.99.100.74:8080/live/dancan/dancan/38.ts
+#EXTINF:-1,ENG | ANIMAL PLANET HD.
+http://192.99.100.74:8080/live/dancan/dancan/41.ts
+#EXTINF:-1,ENG | CTV Toronto
+http://192.99.100.74:8080/live/dancan/dancan/10.ts
+#EXTINF:-1,ENG | Comedy Central HD US
+http://192.99.100.74:8080/live/dancan/dancan/89.ts
+#EXTINF:-1,SPORTS | Tennis Channel
+http://192.99.100.74:8080/live/dancan/dancan/36.ts
+#EXTINF:-1,ENG | CNBC
+http://192.99.100.74:8080/live/dancan/dancan/116.ts
+#EXTINF:-1,ENG | CBSN HD
+http://192.99.100.74:8080/live/dancan/dancan/88.ts
+#EXTINF:-1,ENG | CBC News
+http://192.99.100.74:8080/live/dancan/dancan/134.ts
+#EXTINF:-1,ENG | CBC HD.
+http://192.99.100.74:8080/live/dancan/dancan/33.ts
+#EXTINF:-1,ENG | BRAVO HD
+http://192.99.100.74:8080/live/dancan/dancan/54.ts
+#EXTINF:-1,ENG | BBC 4 HD.
+http://192.99.100.74:8080/live/dancan/dancan/87.ts
+#EXTINF:-1,ENG | BBC 3 HD
+http://192.99.100.74:8080/live/dancan/dancan/86.ts
+#EXTINF:-1,ENG | BBC 2 HD
+http://192.99.100.74:8080/live/dancan/dancan/85.ts
+#EXTINF:-1,ENG | BBC 1 HD
+http://192.99.100.74:8080/live/dancan/dancan/84.ts
+#EXTINF:-1,ENG | AMC USA
+http://192.99.100.74:8080/live/dancan/dancan/48.ts
+#EXTINF:-1,ENG | ABC News HD.
+http://192.99.100.74:8080/live/dancan/dancan/34.ts
+#EXTINF:-1,ENG | HGTV HD
+http://192.99.100.74:8080/live/dancan/dancan/1.ts
+#EXTINF:-1,ENG | News Bronx
+http://192.99.100.74:8080/live/dancan/dancan/1155.ts
+#EXTINF:-1,ENG | News Brooklyn
+http://192.99.100.74:8080/live/dancan/dancan/1157.ts
+#EXTINF:-1,ENG | News Connecticut
+http://192.99.100.74:8080/live/dancan/dancan/1159.ts
+#EXTINF:-1,ENG | News Hudson Valley
+http://192.99.100.74:8080/live/dancan/dancan/1161.ts
+#EXTINF:-1,ENG | News Long Island
+http://192.99.100.74:8080/live/dancan/dancan/1163.ts
+#EXTINF:-1,ENG | News New Jersey
+http://192.99.100.74:8080/live/dancan/dancan/1165.ts
+#EXTINF:-1,ENG | News Westchester
+http://192.99.100.74:8080/live/dancan/dancan/1166.ts
+#EXTINF:-1,ENG | SHOWTIME HD
+http://192.99.100.74:8080/live/dancan/dancan/141.ts
+#EXTINF:-1,USA PPV | MOREMAX
+http://192.99.100.74:8080/live/dancan/dancan/7557.ts
+#EXTINF:-1,ENG | HBO Zone
+http://192.99.100.74:8080/live/dancan/dancan/455.ts
+#EXTINF:-1,ENG | HBO Signature ENG
+http://192.99.100.74:8080/live/dancan/dancan/450.ts
+#EXTINF:-1,ENG | HBO Family ENG
+http://192.99.100.74:8080/live/dancan/dancan/453.ts
+#EXTINF:-1,ENG | HBO  HD
+http://192.99.100.74:8080/live/dancan/dancan/448.ts
+#EXTINF:-1,ENG | HBO 2  HD
+http://192.99.100.74:8080/live/dancan/dancan/449.ts
+#EXTINF:-1,ENG | Starz Edge ENG
+http://192.99.100.74:8080/live/dancan/dancan/473.ts
+#EXTINF:-1,ENG | Starz East HD
+http://192.99.100.74:8080/live/dancan/dancan/471.ts
+#EXTINF:-1,ENG | Starz Comedy ENG
+http://192.99.100.74:8080/live/dancan/dancan/475.ts
+#EXTINF:-1,ENG | Showtime 1
+http://192.99.100.74:8080/live/dancan/dancan/462.ts
+#EXTINF:-1,ENG | Showtime Showcase
+http://192.99.100.74:8080/live/dancan/dancan/467.ts
+#EXTINF:-1,SPORTS | BIG TEN TETWORK HD
+http://192.99.100.74:8080/live/dancan/dancan/465.ts
+#EXTINF:-1,ENG | Showtime West
+http://192.99.100.74:8080/live/dancan/dancan/461.ts
+#EXTINF:-1,ENG | Showtime 2 ENG
+http://192.99.100.74:8080/live/dancan/dancan/463.ts
+#EXTINF:-1,ENG | Lifetime Movie Network  HD
+http://192.99.100.74:8080/live/dancan/dancan/482.ts
+#EXTINF:-1,ENG | ITV Encore  HD
+http://192.99.100.74:8080/live/dancan/dancan/468.ts
+#EXTINF:-1,ENG | Cinemax  HD
+http://192.99.100.74:8080/live/dancan/dancan/456.ts
+#EXTINF:-1,ENG | Cinemax More HD
+http://192.99.100.74:8080/live/dancan/dancan/872.ts
+#EXTINF:-1,ENG | CINEMAX Action Max HD
+http://192.99.100.74:8080/live/dancan/dancan/871.ts
+#EXTINF:-1,NEWS | CBS 4 News (Indianapolis)
+http://192.99.100.74:8080/live/dancan/dancan/20463.ts
+#EXTINF:-1,NEWS | Fox 5 News (Washington DC)
+http://192.99.100.74:8080/live/dancan/dancan/20455.ts
+#EXTINF:-1,NEWS | KOB 4 News (Santa Fe)
+http://192.99.100.74:8080/live/dancan/dancan/20456.ts
+#EXTINF:-1,NEWS | KXAN News (Austin)
+http://192.99.100.74:8080/live/dancan/dancan/20470.ts
+#EXTINF:-1,NEWS | NBC 10 News (Philadelphia)
+http://192.99.100.74:8080/live/dancan/dancan/20458.ts
+#EXTINF:-1,NEWS | NBC 11 News (Bay Area)
+http://192.99.100.74:8080/live/dancan/dancan/20469.ts
+#EXTINF:-1,NEWS | NBC 5 News (Chicago)
+http://192.99.100.74:8080/live/dancan/dancan/20467.ts
+#EXTINF:-1,NEWS | NBC News 13 (Albany)
+http://192.99.100.74:8080/live/dancan/dancan/20471.ts
+#EXTINF:-1,NEWS | WCCB News (Charlotte)
+http://192.99.100.74:8080/live/dancan/dancan/20468.ts
+#EXTINF:-1,NEWS | WGN 9 News (Chicago)
+http://192.99.100.74:8080/live/dancan/dancan/20466.ts
+#EXTINF:-1,NEWS | WGN NEWS CHICAGO (USA)
+http://192.99.100.74:8080/live/dancan/dancan/20415.ts
+#EXTINF:-1,NEWS | WVIT 30 News (Hartford)
+http://192.99.100.74:8080/live/dancan/dancan/20464.ts
+#EXTINF:-1,NEWS | WXXV News 25 (Mississippi)
+http://192.99.100.74:8080/live/dancan/dancan/20461.ts
+#EXTINF:-1,SPORTS | Special Events 1
+http://192.99.100.74:8080/live/dancan/dancan/874.ts
+#EXTINF:-1,SPORTS | Special Events 2
+http://192.99.100.74:8080/live/dancan/dancan/875.ts
+#EXTINF:-1,SPORTS | Special Events 3
+http://192.99.100.74:8080/live/dancan/dancan/876.ts
+#EXTINF:-1,SPORTS | Special Events 4
+http://192.99.100.74:8080/live/dancan/dancan/988.ts
+#EXTINF:-1,SPORTS | Special Events 5
+http://192.99.100.74:8080/live/dancan/dancan/989.ts
+#EXTINF:-1,SPORTS | Special Events 6
+http://192.99.100.74:8080/live/dancan/dancan/990.ts
+#EXTINF:-1,SPORTS | UFC NEXT FILMON
+http://192.99.100.74:8080/live/dancan/dancan/2541.ts
+#EXTINF:-1,SPORTS | PPV SPECIALS EVENTS 1 HD - UFC
+http://192.99.100.74:8080/live/dancan/dancan/1220.ts
+#EXTINF:-1,SPORTS | PPV SPECIALS EVENTS 2 HD - WWE
+http://192.99.100.74:8080/live/dancan/dancan/1221.ts
+#EXTINF:-1,SPORTS | Pac12 Arizona
+http://192.99.100.74:8080/live/dancan/dancan/1130.ts
+#EXTINF:-1,SPORTS | Pac12 Bay Area
+http://192.99.100.74:8080/live/dancan/dancan/1131.ts
+#EXTINF:-1,SPORTS | Pac12 Los Angeles
+http://192.99.100.74:8080/live/dancan/dancan/1133.ts
+#EXTINF:-1,SPORTS | Pac12 Mountain
+http://192.99.100.74:8080/live/dancan/dancan/1134.ts
+#EXTINF:-1,SPORTS | Pac12 National
+http://192.99.100.74:8080/live/dancan/dancan/1132.ts
+#EXTINF:-1,SPORTS | Pac12 Oregon
+http://192.99.100.74:8080/live/dancan/dancan/1135.ts
+#EXTINF:-1,SPORTS | Pac12 Washington
+http://192.99.100.74:8080/live/dancan/dancan/1136.ts
+#EXTINF:-1,SPORTS | BOXNation HD
+http://192.99.100.74:8080/live/dancan/dancan/1170.ts
+#EXTINF:-1,ENG | WWE HD
+http://192.99.100.74:8080/live/dancan/dancan/26.ts
+#EXTINF:-1,SPORTS | NBA TV HD
+http://192.99.100.74:8080/live/dancan/dancan/275.ts
+#EXTINF:-1,SPORTS | FOX Sports 1 HD
+http://192.99.100.74:8080/live/dancan/dancan/435.ts
+#EXTINF:-1,SPORTS | MLB Live HD
+http://192.99.100.74:8080/live/dancan/dancan/436.ts
+#EXTINF:-1,SPORTS | Fox Sports 1 US
+http://192.99.100.74:8080/live/dancan/dancan/273.ts
+#EXTINF:-1,SPORTS | Fox Sports 2 HD US
+http://192.99.100.74:8080/live/dancan/dancan/274.ts
+#EXTINF:-1,SPORTS | BT SPORTS 1 HD
+http://192.99.100.74:8080/live/dancan/dancan/1122.ts
+#EXTINF:-1,SPORTS | BT SPORTS 2 HD
+http://192.99.100.74:8080/live/dancan/dancan/310.ts
+#EXTINF:-1,SPORTS | BT SPORTS 3 HD
+http://192.99.100.74:8080/live/dancan/dancan/309.ts
+#EXTINF:-1,ENG | A&E USA HD
+http://192.99.100.74:8080/live/dancan/dancan/58.ts
+#EXTINF:-1,SPORTS | ESPN US
+http://192.99.100.74:8080/live/dancan/dancan/1121.ts
+#EXTINF:-1,SPORTS | ESPN 2 US HD
+http://192.99.100.74:8080/live/dancan/dancan/270.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS US HD
+http://192.99.100.74:8080/live/dancan/dancan/289.ts
+#EXTINF:-1,SPORTS | NFL NETWORK
+http://192.99.100.74:8080/live/dancan/dancan/277.ts
+#EXTINF:-1,SPORTS | MLB NETWORK
+http://192.99.100.74:8080/live/dancan/dancan/276.ts
+#EXTINF:-1,SPORTS | TSN 1 HD
+http://192.99.100.74:8080/live/dancan/dancan/278.ts
+#EXTINF:-1,SPORTS | TSN 2 HD
+http://192.99.100.74:8080/live/dancan/dancan/279.ts
+#EXTINF:-1,SPORTS | TSN 3 HD
+http://192.99.100.74:8080/live/dancan/dancan/280.ts
+#EXTINF:-1,SPORTS | TSN 4 HD
+http://192.99.100.74:8080/live/dancan/dancan/281.ts
+#EXTINF:-1,SPORTS | TSN 5 HD
+http://192.99.100.74:8080/live/dancan/dancan/282.ts
+#EXTINF:-1,SPORTS | CBS Sports Network
+http://192.99.100.74:8080/live/dancan/dancan/333.ts
+#EXTINF:-1,SPORTS | NHL NETWORK HD
+http://192.99.100.74:8080/live/dancan/dancan/336.ts
+#EXTINF:-1,SPORTS | SPORTSNET Pacific HD
+http://192.99.100.74:8080/live/dancan/dancan/68.ts
+#EXTINF:-1,SPORTS | Sportsnet Ontario HD
+http://192.99.100.74:8080/live/dancan/dancan/284.ts
+#EXTINF:-1,SPORTS | Sportsnet 360 HD
+http://192.99.100.74:8080/live/dancan/dancan/283.ts
+#EXTINF:-1,SPORTS | SPORTSNET EAST HD
+http://192.99.100.74:8080/live/dancan/dancan/1207.ts
+#EXTINF:-1,SPORTS | SPORTSNET ONE HD
+http://192.99.100.74:8080/live/dancan/dancan/1209.ts
+#EXTINF:-1,SPORTS | SPORTSNET WEST HD
+http://192.99.100.74:8080/live/dancan/dancan/1208.ts
+#EXTINF:-1,SPORTS | SPORTSNET WORLD HD
+http://192.99.100.74:8080/live/dancan/dancan/1210.ts
+#EXTINF:-1,SPORTS | UFC Network Spanish
+http://192.99.100.74:8080/live/dancan/dancan/481.ts
 
-#EXTINF:-1,VIP: AXN SA
-http://landiptv.live:8080/live/alejandro/alejandro/84526.ts
-#EXTINF:-1,VIP: HBO HD
-http://landiptv.live:8080/live/alejandro/alejandro/70290.ts
-#EXTINF:-1,VIP: HBO 3 HD
-http://landiptv.live:8080/live/alejandro/alejandro/64223.ts
-#EXTINF:-1,VIP: HBO 1 HD
-http://landiptv.live:8080/live/alejandro/alejandro/65138.ts
-#EXTINF:-1,VIP: AKSION HD
-http://landiptv.live:8080/live/alejandro/alejandro/63480.ts
-#EXTINF:-1,VIP: HORROR HD
-http://landiptv.live:8080/live/alejandro/alejandro/63485.ts
-#EXTINF:-1,VIP: KOMEDY HD
-http://landiptv.live:8080/live/alejandro/alejandro/63486.ts
-#EXTINF:-1,VIP: WESTERN HD
-http://landiptv.live:8080/live/alejandro/alejandro/63479.ts
-#EXTINF:-1,VIP: FANTASY HD
-http://landiptv.live:8080/live/alejandro/alejandro/63481.ts
-#EXTINF:-1,VIP: GOLD 1 HD
-http://landiptv.live:8080/live/alejandro/alejandro/63520.ts
-#EXTINF:-1,VIP: GOLD 2 HD
-http://landiptv.live:8080/live/alejandro/alejandro/63519.ts
-#EXTINF:-1,VIP: GOLD 3 HD
-http://landiptv.live:8080/live/alejandro/alejandro/63518.ts
-#EXTINF:-1,VIP: GOLD 4 HD
-http://landiptv.live:8080/live/alejandro/alejandro/63517.ts
-#EXTINF:-1,VIP: ENGLISH CLUB TV
-http://landiptv.live:8080/live/alejandro/alejandro/63533.ts
-#EXTINF:-1,VIP: ANIMAL PLANET HD
-http://landiptv.live:8080/live/alejandro/alejandro/63593.ts
-#EXTINF:-1,VIP: DISCOVERY SHOW CASE
-http://landiptv.live:8080/live/alejandro/alejandro/63594.ts
-#EXTINF:-1,VIP: DISCOVERY TURBO EXTRA
-http://landiptv.live:8080/live/alejandro/alejandro/63595.ts
-#EXTINF:-1,VIP: DISCOVERY WORLD
-http://landiptv.live:8080/live/alejandro/alejandro/63596.ts
-#EXTINF:-1,VIP: DISCOVERY SHED
-http://landiptv.live:8080/live/alejandro/alejandro/63597.ts
-#EXTINF:-1,VIP: DISCOVERY SCIENCE HD
-http://landiptv.live:8080/live/alejandro/alejandro/63598.ts
-#EXTINF:-1,VIP: TOM & JERRY
-http://landiptv.live:8080/live/alejandro/alejandro/63637.ts
-#EXTINF:-1,VIP: MOVIE BOX 3 HD
-http://landiptv.live:8080/live/alejandro/alejandro/81917.ts
-#EXTINF:-1,VIP: STAR WORLD PREMIERE HD
-http://landiptv.live:8080/live/alejandro/alejandro/79103.ts
-#EXTINF:-1,VIP: STAR WORLD SA HD
-http://landiptv.live:8080/live/alejandro/alejandro/79106.ts
-#EXTINF:-1,VIP: Woody Woodpecker HD
-http://landiptv.live:8080/live/alejandro/alejandro/63618.ts
-#EXTINF:-1,VIP: Star Movies HD
-http://landiptv.live:8080/live/alejandro/alejandro/70287.ts
-#EXTINF:-1,VIP: Movies Now
-http://landiptv.live:8080/live/alejandro/alejandro/70291.ts
-#EXTINF:-1,VIP: STAR MOVIES SA HD
-http://landiptv.live:8080/live/alejandro/alejandro/79104.ts
-#EXTINF:-1,VIP: Movies Plus
-http://landiptv.live:8080/live/alejandro/alejandro/84527.ts
-#EXTINF:-1,VIP: ROMEDY Now
-http://landiptv.live:8080/live/alejandro/alejandro/84529.ts
-#EXTINF:-1,VIP: Movies Now 2
-http://landiptv.live:8080/live/alejandro/alejandro/84530.ts
-#EXTINF:-1,VIP: Star World HD
-http://landiptv.live:8080/live/alejandro/alejandro/63291.ts
-#EXTINF:-1,VIP: DRAMA HD
-http://landiptv.live:8080/live/alejandro/alejandro/95456.ts
-#EXTINF:-1,VIP: BOX OFFICE (UK)
-http://landiptv.live:8080/live/alejandro/alejandro/67180.ts
-#EXTINF:-1,UK: 5Star
-http://landiptv.live:8080/live/alejandro/alejandro/74587.ts
-#EXTINF:-1,UK: SPIKE
-http://landiptv.live:8080/live/alejandro/alejandro/74588.ts
-#EXTINF:-1,UK: BET
-http://landiptv.live:8080/live/alejandro/alejandro/74589.ts
-#EXTINF:-1,UK: CITV
-http://landiptv.live:8080/live/alejandro/alejandro/74590.ts
-#EXTINF:-1,UK: Tiny POP
-http://landiptv.live:8080/live/alejandro/alejandro/74591.ts
-#EXTINF:-1,UK: H2 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74597.ts
-#EXTINF:-1,UK: Travel Channel
-http://landiptv.live:8080/live/alejandro/alejandro/74601.ts
-#EXTINF:-1,UK: 4MUSIC
-http://landiptv.live:8080/live/alejandro/alejandro/74604.ts
-#EXTINF:-1,UK: Fox News
-http://landiptv.live:8080/live/alejandro/alejandro/74608.ts
-#EXTINF:-1,UK: EURO NEWS
-http://landiptv.live:8080/live/alejandro/alejandro/74609.ts
-#EXTINF:-1,UK: Sky Sky-Fi & Horror HD
-http://landiptv.live:8080/live/alejandro/alejandro/74689.ts
-#EXTINF:-1,UK: Sky Musicals HD
-http://landiptv.live:8080/live/alejandro/alejandro/74690.ts
-#EXTINF:-1,UK: Sky 3D
-http://landiptv.live:8080/live/alejandro/alejandro/74696.ts
-#EXTINF:-1,UK: BOX OFFICE HD 3
-http://landiptv.live:8080/live/alejandro/alejandro/74697.ts
-#EXTINF:-1,UK: Pop Max
-http://landiptv.live:8080/live/alejandro/alejandro/74706.ts
-#EXTINF:-1,UK: Peppa
-http://landiptv.live:8080/live/alejandro/alejandro/74711.ts
-#EXTINF:-1,UK: W HD
-http://landiptv.live:8080/live/alejandro/alejandro/74716.ts
-#EXTINF:-1,UK: ITV2 +1
-http://landiptv.live:8080/live/alejandro/alejandro/74719.ts
-#EXTINF:-1,UK: ITV4 +1
-http://landiptv.live:8080/live/alejandro/alejandro/74720.ts
-#EXTINF:-1,UK: Quest Red
-http://landiptv.live:8080/live/alejandro/alejandro/74721.ts
-#EXTINF:-1,UK: Challenge
-http://landiptv.live:8080/live/alejandro/alejandro/74722.ts
-#EXTINF:-1,UK: S4C
-http://landiptv.live:8080/live/alejandro/alejandro/74723.ts
-#EXTINF:-1,UK: 5 USA +1
-http://landiptv.live:8080/live/alejandro/alejandro/74729.ts
-#EXTINF:-1,UK: UTV HD
-http://landiptv.live:8080/live/alejandro/alejandro/74731.ts
-#EXTINF:-1,UK: Sky News Live
-http://landiptv.live:8080/live/alejandro/alejandro/74733.ts
-#EXTINF:-1,UK: BBC Parliament
-http://landiptv.live:8080/live/alejandro/alejandro/74734.ts
-#EXTINF:-1,UK: BBC Alba
-http://landiptv.live:8080/live/alejandro/alejandro/74735.ts
-#EXTINF:-1,UK: Arise News
-http://landiptv.live:8080/live/alejandro/alejandro/74736.ts
-#EXTINF:-1,UK: FRANCE 24
-http://landiptv.live:8080/live/alejandro/alejandro/74737.ts
-#EXTINF:-1,UK: CBSN News
-http://landiptv.live:8080/live/alejandro/alejandro/74738.ts
-#EXTINF:-1,UK: Channels Television
-http://landiptv.live:8080/live/alejandro/alejandro/74741.ts
-#EXTINF:-1,UK: CNN NEWS
-http://landiptv.live:8080/live/alejandro/alejandro/74742.ts
-#EXTINF:-1,UK: Bloomberg
-http://landiptv.live:8080/live/alejandro/alejandro/74743.ts
-#EXTINF:-1,UK: MTV +1
-http://landiptv.live:8080/live/alejandro/alejandro/74744.ts
-#EXTINF:-1,UK: Discovery HOME
-http://landiptv.live:8080/live/alejandro/alejandro/74758.ts
-#EXTINF:-1,UK: FILM 4 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74759.ts
-#EXTINF:-1,UK: Sky Movies Modern Greats HD
-http://landiptv.live:8080/live/alejandro/alejandro/74760.ts
-#EXTINF:-1,UK: Setanta Ireland
-http://landiptv.live:8080/live/alejandro/alejandro/74761.ts
-#EXTINF:-1,UK: Sky Great HD
-http://landiptv.live:8080/live/alejandro/alejandro/74765.ts
-#EXTINF:-1,UK: Sky Movies SciFi & Horror HD
-http://landiptv.live:8080/live/alejandro/alejandro/74766.ts
-#EXTINF:-1,UK: Sky MTV
-http://landiptv.live:8080/live/alejandro/alejandro/74774.ts
-#EXTINF:-1,UK: Sky Movies Thriller HD
-http://landiptv.live:8080/live/alejandro/alejandro/74775.ts
-#EXTINF:-1,UK: Sky Movies Drama HD
-http://landiptv.live:8080/live/alejandro/alejandro/74776.ts
-#EXTINF:-1,UK: Channel 4 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74789.ts
-#EXTINF:-1,UK: Channel 5 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74790.ts
-#EXTINF:-1,UK: CNN HD
-http://landiptv.live:8080/live/alejandro/alejandro/74792.ts
-#EXTINF:-1,UK: Discovery Shed
-http://landiptv.live:8080/live/alejandro/alejandro/74794.ts
-#EXTINF:-1,UK: Drama
-http://landiptv.live:8080/live/alejandro/alejandro/74796.ts
-#EXTINF:-1,UK: Food Network HD
-http://landiptv.live:8080/live/alejandro/alejandro/74799.ts
-#EXTINF:-1,UK: HISTORY HD
-http://landiptv.live:8080/live/alejandro/alejandro/74802.ts
-#EXTINF:-1,UK: Horror Channel
-http://landiptv.live:8080/live/alejandro/alejandro/74804.ts
-#EXTINF:-1,UK: MTV Rocks
-http://landiptv.live:8080/live/alejandro/alejandro/74806.ts
-#EXTINF:-1,UK: NAT GEO Wild HD
-http://landiptv.live:8080/live/alejandro/alejandro/74807.ts
-#EXTINF:-1,UK: NAT GEO HD
-http://landiptv.live:8080/live/alejandro/alejandro/74808.ts
-#EXTINF:-1,UK: Disney Junior HD
-http://landiptv.live:8080/live/alejandro/alejandro/65133.ts
-#EXTINF:-1,UK: Nick JR Too
-http://landiptv.live:8080/live/alejandro/alejandro/74592.ts
-#EXTINF:-1,UK: Cartoonito
-http://landiptv.live:8080/live/alejandro/alejandro/74593.ts
-#EXTINF:-1,UK: Disney Channel HD
-http://landiptv.live:8080/live/alejandro/alejandro/74594.ts
-#EXTINF:-1,UK: Nickelodeon +1
-http://landiptv.live:8080/live/alejandro/alejandro/74705.ts
-#EXTINF:-1,UK: Cartoon Network HD
-http://landiptv.live:8080/live/alejandro/alejandro/74786.ts
-#EXTINF:-1,UK: ITV Box Office HD
-http://landiptv.live:8080/live/alejandro/alejandro/65022.ts
-#EXTINF:-1,UK: Sky Cinema Hits HD
-http://landiptv.live:8080/live/alejandro/alejandro/80381.ts
-#EXTINF:-1,UK: HISTOR
-http://landiptv.live:8080/live/alejandro/alejandro/80400.ts
-#EXTINF:-1,UK: Setanta Sport
-http://landiptv.live:8080/live/alejandro/alejandro/65015.ts
-#EXTINF:-1,UK: EDGE SPORT HD
-http://landiptv.live:8080/live/alejandro/alejandro/65066.ts
-#EXTINF:-1,UK: Premier Sports HD
-http://landiptv.live:8080/live/alejandro/alejandro/65067.ts
-#EXTINF:-1,UK: Super Sport 2
-http://landiptv.live:8080/live/alejandro/alejandro/74658.ts
-#EXTINF:-1,UK: Ginxe Sports TV
-http://landiptv.live:8080/live/alejandro/alejandro/74685.ts
-#EXTINF:-1,UK: BBC 1 HD
-http://landiptv.live:8080/live/alejandro/alejandro/86279.ts
-#EXTINF:-1,UK: BBC Earth
-http://landiptv.live:8080/live/alejandro/alejandro/86280.ts
-#EXTINF:-1,UK: BBC Entertainment
-http://landiptv.live:8080/live/alejandro/alejandro/86281.ts
-#EXTINF:-1,UK: 5 SELECT
-http://landiptv.live:8080/live/alejandro/alejandro/86300.ts
-#EXTINF:-1,UK: Crime & Investigation
-http://landiptv.live:8080/live/alejandro/alejandro/86302.ts
-#EXTINF:-1,UK: Fine Living Network
-http://landiptv.live:8080/live/alejandro/alejandro/86312.ts
-#EXTINF:-1,UK: Racing HD
-http://landiptv.live:8080/live/alejandro/alejandro/86331.ts
-#EXTINF:-1,UK: Sky Movies Select HD
-http://landiptv.live:8080/live/alejandro/alejandro/86333.ts
-#EXTINF:-1,UK: SyFy UK
-http://landiptv.live:8080/live/alejandro/alejandro/86340.ts
-#EXTINF:-1,UK: PTV PRIME
-http://landiptv.live:8080/live/alejandro/alejandro/86351.ts
-#EXTINF:-1,UK: Sky Football
-http://landiptv.live:8080/live/alejandro/alejandro/88302.ts
-#EXTINF:-1,UK: Sky Cinema Oscars
-http://landiptv.live:8080/live/alejandro/alejandro/88313.ts
-#EXTINF:-1,UK: Sky Cinema Action & Adventure HD
-http://landiptv.live:8080/live/alejandro/alejandro/88315.ts
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
-http://landiptv.live:8080/live/alejandro/alejandro/88316.ts
-#EXTINF:-1,UK: Sky Cinema SCIFI HORROR HD
-http://landiptv.live:8080/live/alejandro/alejandro/88317.ts
-#EXTINF:-1,UK: Sky Cinema Premiere HD
-http://landiptv.live:8080/live/alejandro/alejandro/88318.ts
-#EXTINF:-1,UK: Sky Cinema Comedy HD
-http://landiptv.live:8080/live/alejandro/alejandro/88319.ts
-#EXTINF:-1,UK: Sky Cinema Family HD
-http://landiptv.live:8080/live/alejandro/alejandro/88320.ts
-#EXTINF:-1,UK: SHOWCASE
-http://landiptv.live:8080/live/alejandro/alejandro/88686.ts
-#EXTINF:-1,UK: HBO HD
-http://landiptv.live:8080/live/alejandro/alejandro/91383.ts
-#EXTINF:-1,UK: Eurosport 1 HD
-http://landiptv.live:8080/live/alejandro/alejandro/91439.ts
-#EXTINF:-1,UK: Sky Cinema Modern Greats HD
-http://landiptv.live:8080/live/alejandro/alejandro/91457.ts
-#EXTINF:-1,UK: Sky Tow
-http://landiptv.live:8080/live/alejandro/alejandro/92610.ts
-#EXTINF:-1,UK: True Movie
-http://landiptv.live:8080/live/alejandro/alejandro/92612.ts
-#EXTINF:-1,UK: Sky Movie Thriller
-http://landiptv.live:8080/live/alejandro/alejandro/93063.ts
-#EXTINF:-1,UK: Sky Movie Premiere
-http://landiptv.live:8080/live/alejandro/alejandro/93065.ts
-#EXTINF:-1,UK: Sky Movie Family
-http://landiptv.live:8080/live/alejandro/alejandro/93066.ts
-#EXTINF:-1,UK: Sky Movie Comedy
-http://landiptv.live:8080/live/alejandro/alejandro/93067.ts
-#EXTINF:-1,UK: Sky Movie Action
-http://landiptv.live:8080/live/alejandro/alejandro/93068.ts
-#EXTINF:-1,UK: Sky Movie Drama
-http://landiptv.live:8080/live/alejandro/alejandro/93070.ts
-#EXTINF:-1,UK: CHELSEA
-http://landiptv.live:8080/live/alejandro/alejandro/93244.ts
-#EXTINF:-1,UK: WWE Raw Network HD
-http://landiptv.live:8080/live/alejandro/alejandro/93245.ts
-#EXTINF:-1,UK: WWE HD
-http://landiptv.live:8080/live/alejandro/alejandro/93246.ts
-#EXTINF:-1,UK: WWE 24
-http://landiptv.live:8080/live/alejandro/alejandro/93247.ts
-#EXTINF:-1,UK: Premier Sport HD
-http://landiptv.live:8080/live/alejandro/alejandro/93328.ts
-#EXTINF:-1,UK: Sky Cinema ScFi Horror
-http://landiptv.live:8080/live/alejandro/alejandro/93469.ts
-#EXTINF:-1,UK: Sky Cinema Select HD
-http://landiptv.live:8080/live/alejandro/alejandro/93470.ts
-#EXTINF:-1,UK: Sky Living FHD
-http://landiptv.live:8080/live/alejandro/alejandro/93472.ts
-#EXTINF:-1,UK: ITV BOX OFFICE (Live During Events Only)
-http://landiptv.live:8080/live/alejandro/alejandro/93907.ts
-#EXTINF:-1,UK: TCM (film)
-http://landiptv.live:8080/live/alejandro/alejandro/94176.ts
-#EXTINF:-1,UK: Keep It Country TV
-http://landiptv.live:8080/live/alejandro/alejandro/94189.ts
-#EXTINF:-1,UK: AMC HD
-http://landiptv.live:8080/live/alejandro/alejandro/63034.ts
-#EXTINF:-1,UK: RTE 1 HD
-http://landiptv.live:8080/live/alejandro/alejandro/91966.ts
-#EXTINF:-1,UK: RTE 2 HD
-http://landiptv.live:8080/live/alejandro/alejandro/91967.ts
-#EXTINF:-1,UK: BBC World News
-http://landiptv.live:8080/live/alejandro/alejandro/94688.ts
-#EXTINF:-1,UK: SKY CINEMA PREMIER 1
-http://landiptv.live:8080/live/alejandro/alejandro/94779.ts
-#EXTINF:-1,UK: Eurosport 1 FHD
-http://landiptv.live:8080/live/alejandro/alejandro/94786.ts
-#EXTINF:-1,UK: HBO 2 FHD
-http://landiptv.live:8080/live/alejandro/alejandro/94789.ts
-#EXTINF:-1,UK: NAT GEO FHD
-http://landiptv.live:8080/live/alejandro/alejandro/94791.ts
-#EXTINF:-1,UK: Animal Planet FHD
-http://landiptv.live:8080/live/alejandro/alejandro/94793.ts
-#EXTINF:-1,UK: History FHD
-http://landiptv.live:8080/live/alejandro/alejandro/94795.ts
-#EXTINF:-1,UK: MGM FHD
-http://landiptv.live:8080/live/alejandro/alejandro/94796.ts
-#EXTINF:-1,UK: PPV WWE
-http://landiptv.live:8080/live/alejandro/alejandro/94806.ts
-#EXTINF:-1,UK: WWE NETWORK
-http://landiptv.live:8080/live/alejandro/alejandro/74519.ts
-#EXTINF:-1,UK: TV3
-http://landiptv.live:8080/live/alejandro/alejandro/74567.ts
-#EXTINF:-1,UK: REAL LIVES
-http://landiptv.live:8080/live/alejandro/alejandro/74582.ts
-#EXTINF:-1,UK: UTV Ireland
-http://landiptv.live:8080/live/alejandro/alejandro/74586.ts
-#EXTINF:-1,UK: CAPITAL TV MUSIC
-http://landiptv.live:8080/live/alejandro/alejandro/74602.ts
-#EXTINF:-1,UK: NOW 80s
-http://landiptv.live:8080/live/alejandro/alejandro/74605.ts
-#EXTINF:-1,UK: RUSSIA TODAY
-http://landiptv.live:8080/live/alejandro/alejandro/74610.ts
-#EXTINF:-1,UK: HUM TV EUROPE
-http://landiptv.live:8080/live/alejandro/alejandro/74611.ts
-#EXTINF:-1,UK: B4U Music
-http://landiptv.live:8080/live/alejandro/alejandro/86866.ts
-#EXTINF:-1,UK: &TV
-http://landiptv.live:8080/live/alejandro/alejandro/87030.ts
-#EXTINF:-1,UK: PRIME TV UK
-http://landiptv.live:8080/live/alejandro/alejandro/91384.ts
-#EXTINF:-1,UK: CHANNEL AKAAL
-http://landiptv.live:8080/live/alejandro/alejandro/91386.ts
-#EXTINF:-1,UK: ARY DIGITAL
-http://landiptv.live:8080/live/alejandro/alejandro/91387.ts
-#EXTINF:-1,UK: AL JAZEERA NEWS ENGLISH
-http://landiptv.live:8080/live/alejandro/alejandro/91389.ts
-#EXTINF:-1,UK: BLOOMBERG NEWS
-http://landiptv.live:8080/live/alejandro/alejandro/91391.ts
-#EXTINF:-1,UK: HUM MASALA
-http://landiptv.live:8080/live/alejandro/alejandro/91394.ts
-#EXTINF:-1,UK: SETANTA SPORTS
-http://landiptv.live:8080/live/alejandro/alejandro/91400.ts
-#EXTINF:-1,UK: BBC FOUR / CBEEBIES
-http://landiptv.live:8080/live/alejandro/alejandro/91405.ts
-#EXTINF:-1,UK: BBC TWO SCOTLAND
-http://landiptv.live:8080/live/alejandro/alejandro/91406.ts
-#EXTINF:-1,UK: CNN INTERNATIONAL
-http://landiptv.live:8080/live/alejandro/alejandro/91413.ts
-#EXTINF:-1,UK: DUNYA NEWS
-http://landiptv.live:8080/live/alejandro/alejandro/91417.ts
-#EXTINF:-1,UK: NOLLLYWOOD
-http://landiptv.live:8080/live/alejandro/alejandro/91418.ts
-#EXTINF:-1,UK: E! Entertainment
-http://landiptv.live:8080/live/alejandro/alejandro/91422.ts
-#EXTINF:-1,UK: ABP NEWS
-http://landiptv.live:8080/live/alejandro/alejandro/91433.ts
-#EXTINF:-1,UK: RISHTEY TV
-http://landiptv.live:8080/live/alejandro/alejandro/91454.ts
-#EXTINF:-1,UK: SIKH TV
-http://landiptv.live:8080/live/alejandro/alejandro/91455.ts
-#EXTINF:-1,UK: STAR BHARAT
-http://landiptv.live:8080/live/alejandro/alejandro/91458.ts
-#EXTINF:-1,UK: STAR PLUS
-http://landiptv.live:8080/live/alejandro/alejandro/91459.ts
-#EXTINF:-1,UK: ZING TV
-http://landiptv.live:8080/live/alejandro/alejandro/91468.ts
-#EXTINF:-1,UK: MTV Classic
-http://landiptv.live:8080/live/alejandro/alejandro/95572.ts
-#EXTINF:-1,UK: MTV Live HD
-http://landiptv.live:8080/live/alejandro/alejandro/95573.ts
-#EXTINF:-1,UK: REALY
-http://landiptv.live:8080/live/alejandro/alejandro/74727.ts
-#EXTINF:-1,UK: Africa News
-http://landiptv.live:8080/live/alejandro/alejandro/65041.ts
-#EXTINF:-1,UK: ABC News
-http://landiptv.live:8080/live/alejandro/alejandro/96992.ts
-#EXTINF:-1,UK: Sky Movie Premiere Plus
-http://landiptv.live:8080/live/alejandro/alejandro/97047.ts
-#EXTINF:-1,UK: MOTORSPORT TV
-http://landiptv.live:8080/live/alejandro/alejandro/97053.ts
-#EXTINF:-1,###### USA ######
-http://176.9.45.67/no-content.mp4
-#EXTINF:-1,US: HBO FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78351.ts
-#EXTINF:-1,US: HBO Family FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78353.ts
-#EXTINF:-1,US: HBO Zone FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78354.ts
-#EXTINF:-1,US: Showtime 2 FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78342.ts
-#EXTINF:-1,US: Cinemax Moremax
-http://landiptv.live:8080/live/alejandro/alejandro/74853.ts
-#EXTINF:-1,US: Cinemax 5 Max
-http://landiptv.live:8080/live/alejandro/alejandro/74901.ts
-#EXTINF:-1,US: HBO Family HD
-http://landiptv.live:8080/live/alejandro/alejandro/74903.ts
-#EXTINF:-1,US: Starz Kids & Family HD
-http://landiptv.live:8080/live/alejandro/alejandro/77158.ts
-#EXTINF:-1,US: BOX OFFICE MOVIES
-http://landiptv.live:8080/live/alejandro/alejandro/74905.ts
-#EXTINF:-1,US: Starz Encore East HD
-http://landiptv.live:8080/live/alejandro/alejandro/74914.ts
-#EXTINF:-1,US: Starz Encore HD
-http://landiptv.live:8080/live/alejandro/alejandro/74915.ts
-#EXTINF:-1,US: Cinemax East HD
-http://landiptv.live:8080/live/alejandro/alejandro/74917.ts
-#EXTINF:-1,US: CINEMAX ACTIONMAX
-http://landiptv.live:8080/live/alejandro/alejandro/74918.ts
-#EXTINF:-1,US: CINEMAX 5 STARMAX HD
-http://landiptv.live:8080/live/alejandro/alejandro/74927.ts
-#EXTINF:-1,US: Showtime Extreme HD
-http://landiptv.live:8080/live/alejandro/alejandro/74934.ts
-#EXTINF:-1,US: Showtime Showcase
-http://landiptv.live:8080/live/alejandro/alejandro/74935.ts
-#EXTINF:-1,US: AFN PRIME PACIFIC HD
-http://landiptv.live:8080/live/alejandro/alejandro/74938.ts
-#EXTINF:-1,US: AFN PRIME ATLANTIC HD
-http://landiptv.live:8080/live/alejandro/alejandro/74939.ts
-#EXTINF:-1,US: AFN NEWS HD
-http://landiptv.live:8080/live/alejandro/alejandro/74940.ts
-#EXTINF:-1,US: AFN Movie HD
-http://landiptv.live:8080/live/alejandro/alejandro/74941.ts
-#EXTINF:-1,US: AFN Family Movie
-http://landiptv.live:8080/live/alejandro/alejandro/74942.ts
-#EXTINF:-1,US: Starz HD
-http://landiptv.live:8080/live/alejandro/alejandro/75115.ts
-#EXTINF:-1,US: Comedy
-http://landiptv.live:8080/live/alejandro/alejandro/75116.ts
-#EXTINF:-1,US: Starz Cinema HD
-http://landiptv.live:8080/live/alejandro/alejandro/75114.ts
-#EXTINF:-1,US: Signature
-http://landiptv.live:8080/live/alejandro/alejandro/75117.ts
-#EXTINF:-1,US: Zone
-http://landiptv.live:8080/live/alejandro/alejandro/75118.ts
-#EXTINF:-1,US: Action Max FHD
-http://landiptv.live:8080/live/alejandro/alejandro/75136.ts
-#EXTINF:-1,US: Showtime FHD
-http://landiptv.live:8080/live/alejandro/alejandro/75137.ts
-#EXTINF:-1,US: HBO East HD
-http://landiptv.live:8080/live/alejandro/alejandro/75881.ts
-#EXTINF:-1,US: AMC FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78289.ts
-#EXTINF:-1,US: TNT HD
-http://landiptv.live:8080/live/alejandro/alejandro/74835.ts
-#EXTINF:-1,US: NBC HD
-http://landiptv.live:8080/live/alejandro/alejandro/74836.ts
-#EXTINF:-1,US: FOX NY
-http://landiptv.live:8080/live/alejandro/alejandro/74837.ts
-#EXTINF:-1,US: FOX News HD
-http://landiptv.live:8080/live/alejandro/alejandro/74838.ts
-#EXTINF:-1,US: CBS HD
-http://landiptv.live:8080/live/alejandro/alejandro/74839.ts
-#EXTINF:-1,US: CBS News
-http://landiptv.live:8080/live/alejandro/alejandro/74840.ts
-#EXTINF:-1,US: CBSN News
-http://landiptv.live:8080/live/alejandro/alejandro/74841.ts
-#EXTINF:-1,US: CW 11 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74842.ts
-#EXTINF:-1,US: AMC HD
-http://landiptv.live:8080/live/alejandro/alejandro/74843.ts
-#EXTINF:-1,US: SPIKE TV
-http://landiptv.live:8080/live/alejandro/alejandro/74845.ts
-#EXTINF:-1,US: FX HD
-http://landiptv.live:8080/live/alejandro/alejandro/74846.ts
-#EXTINF:-1,US: A&E FHD
-http://landiptv.live:8080/live/alejandro/alejandro/74847.ts
-#EXTINF:-1,US: Bravo HD
-http://landiptv.live:8080/live/alejandro/alejandro/74848.ts
-#EXTINF:-1,US: CNBC HD
-http://landiptv.live:8080/live/alejandro/alejandro/74849.ts
-#EXTINF:-1,US: Disney Junior HD
-http://landiptv.live:8080/live/alejandro/alejandro/74850.ts
-#EXTINF:-1,US: Nickelodeon KIDS HD
-http://landiptv.live:8080/live/alejandro/alejandro/74851.ts
-#EXTINF:-1,US: COMEDY CENTRAL WEST
-http://landiptv.live:8080/live/alejandro/alejandro/74854.ts
-#EXTINF:-1,US: NICKTOONS
-http://landiptv.live:8080/live/alejandro/alejandro/74857.ts
-#EXTINF:-1,US: TLC HD
-http://landiptv.live:8080/live/alejandro/alejandro/74858.ts
-#EXTINF:-1,US: Food Network HD
-http://landiptv.live:8080/live/alejandro/alejandro/74859.ts
-#EXTINF:-1,US: LIFETIME HD
-http://landiptv.live:8080/live/alejandro/alejandro/74860.ts
-#EXTINF:-1,US: HISTORY HD
-http://landiptv.live:8080/live/alejandro/alejandro/74861.ts
-#EXTINF:-1,US: DISCOVERY HD
-http://landiptv.live:8080/live/alejandro/alejandro/74862.ts
-#EXTINF:-1,US: Discovery Science HD
-http://landiptv.live:8080/live/alejandro/alejandro/74863.ts
-#EXTINF:-1,US: DISCOVERY VELOCITY
-http://landiptv.live:8080/live/alejandro/alejandro/74864.ts
-#EXTINF:-1,US: TRAVEL CHANNEL HD
-http://landiptv.live:8080/live/alejandro/alejandro/74866.ts
-#EXTINF:-1,US: MTV HD
-http://landiptv.live:8080/live/alejandro/alejandro/74867.ts
-#EXTINF:-1,US: MTV LIVE HD
-http://landiptv.live:8080/live/alejandro/alejandro/74869.ts
-#EXTINF:-1,US: VH1 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74870.ts
-#EXTINF:-1,US: CMT HD
-http://landiptv.live:8080/live/alejandro/alejandro/74874.ts
-#EXTINF:-1,US: CALIFORNIA MUSIC CHANNEL
-http://landiptv.live:8080/live/alejandro/alejandro/74875.ts
-#EXTINF:-1,US: NFL Network HD
-http://landiptv.live:8080/live/alejandro/alejandro/74877.ts
-#EXTINF:-1,US: ESPN 1 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74879.ts
-#EXTINF:-1,US: ESPN HD
-http://landiptv.live:8080/live/alejandro/alejandro/74887.ts
-#EXTINF:-1,US: ESPN 3 TRE
-http://landiptv.live:8080/live/alejandro/alejandro/74889.ts
-#EXTINF:-1,US: E! Network HD
-http://landiptv.live:8080/live/alejandro/alejandro/74891.ts
-#EXTINF:-1,US: RT DOCUMENTARY
-http://landiptv.live:8080/live/alejandro/alejandro/74893.ts
-#EXTINF:-1,US: SYFY HD
-http://landiptv.live:8080/live/alejandro/alejandro/74894.ts
-#EXTINF:-1,US: TRUE MOVIES
-http://landiptv.live:8080/live/alejandro/alejandro/74895.ts
-#EXTINF:-1,US: Big Ten Network HD
-http://landiptv.live:8080/live/alejandro/alejandro/74897.ts
-#EXTINF:-1,US: PBS Kids
-http://landiptv.live:8080/live/alejandro/alejandro/74898.ts
-#EXTINF:-1,US: Nursery Rhymes (Baby Songs)
-http://landiptv.live:8080/live/alejandro/alejandro/74899.ts
-#EXTINF:-1,US: C Toon Kids
-http://landiptv.live:8080/live/alejandro/alejandro/74900.ts
-#EXTINF:-1,US: GSN TV
-http://landiptv.live:8080/live/alejandro/alejandro/74902.ts
-#EXTINF:-1,US: Yes Network
-http://landiptv.live:8080/live/alejandro/alejandro/76762.ts
-#EXTINF:-1,US: WGN America
-http://landiptv.live:8080/live/alejandro/alejandro/76763.ts
-#EXTINF:-1,US: UFC Fight Pass HD
-http://landiptv.live:8080/live/alejandro/alejandro/76764.ts
-#EXTINF:-1,US: VH1 (West)
-http://landiptv.live:8080/live/alejandro/alejandro/78294.ts
-#EXTINF:-1,US: VH1 (East)
-http://landiptv.live:8080/live/alejandro/alejandro/78295.ts
-#EXTINF:-1,US: A NETWORK HD
-http://landiptv.live:8080/live/alejandro/alejandro/78297.ts
-#EXTINF:-1,US: NEWS 12 BROOKLYN
-http://landiptv.live:8080/live/alejandro/alejandro/78303.ts
-#EXTINF:-1,US: NEWS 12 HUDSON VALLEY
-http://landiptv.live:8080/live/alejandro/alejandro/78304.ts
-#EXTINF:-1,US: NEWS 12 LONG ISLAND
-http://landiptv.live:8080/live/alejandro/alejandro/78305.ts
-#EXTINF:-1,US: NEWS 12 NEW JERSEY
-http://landiptv.live:8080/live/alejandro/alejandro/78306.ts
-#EXTINF:-1,US: Bloomberg FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78307.ts
-#EXTINF:-1,US: NBC EAST FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78308.ts
-#EXTINF:-1,US: MSNBC FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78309.ts
-#EXTINF:-1,US: NBCSN FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78310.ts
-#EXTINF:-1,US: MSG (Only during live events)
-http://landiptv.live:8080/live/alejandro/alejandro/78314.ts
-#EXTINF:-1,US: Destination America FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78317.ts
-#EXTINF:-1,US: C Toon Kids FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78350.ts
-#EXTINF:-1,US: Big Ten Network FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78356.ts
-#EXTINF:-1,US: Travel Channel FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78359.ts
-#EXTINF:-1,US: TNT FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78369.ts
-#EXTINF:-1,US: DIY NETWORK FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78371.ts
-#EXTINF:-1,US: GSN (Game Show Network) FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78373.ts
-#EXTINF:-1,US: ID Fashion FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78374.ts
-#EXTINF:-1,US: CBS (East) FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78376.ts
-#EXTINF:-1,US: PAC-12 Los Angeles FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78380.ts
-#EXTINF:-1,US: NFL NOW FHD
-http://landiptv.live:8080/live/alejandro/alejandro/78381.ts
-#EXTINF:-1,US: Bravo TV HD
-http://landiptv.live:8080/live/alejandro/alejandro/76572.ts
-#EXTINF:-1,US: FOX East HD
-http://landiptv.live:8080/live/alejandro/alejandro/76793.ts
-#EXTINF:-1,US: NFL Red Zone
-http://landiptv.live:8080/live/alejandro/alejandro/76679.ts
-#EXTINF:-1,US: NBCSN Bay Area HD
-http://landiptv.live:8080/live/alejandro/alejandro/74820.ts
-#EXTINF:-1,US: NBCSN Boston HD
-http://landiptv.live:8080/live/alejandro/alejandro/74821.ts
-#EXTINF:-1,US: NBCSN California HD
-http://landiptv.live:8080/live/alejandro/alejandro/74822.ts
-#EXTINF:-1,US: NBCSN Chicago HD
-http://landiptv.live:8080/live/alejandro/alejandro/74823.ts
-#EXTINF:-1,US: NBCSN North West HD
-http://landiptv.live:8080/live/alejandro/alejandro/74824.ts
-#EXTINF:-1,US: NBCSN Philly HD
-http://landiptv.live:8080/live/alejandro/alejandro/74825.ts
-#EXTINF:-1,US: NBC GOLF HD
-http://landiptv.live:8080/live/alejandro/alejandro/74826.ts
-#EXTINF:-1,US: ABC FAMILY/SPARK
-http://landiptv.live:8080/live/alejandro/alejandro/74831.ts
-#EXTINF:-1,US: ABC NEWS HD
-http://landiptv.live:8080/live/alejandro/alejandro/74833.ts
-#EXTINF:-1,US: USA NETWORK HD
-http://landiptv.live:8080/live/alejandro/alejandro/74834.ts
-#EXTINF:-1,US: TV Land WEST
-http://landiptv.live:8080/live/alejandro/alejandro/76765.ts
-#EXTINF:-1,US: TV Land EAST
-http://landiptv.live:8080/live/alejandro/alejandro/76766.ts
-#EXTINF:-1,US: SUNDANCE TV
-http://landiptv.live:8080/live/alejandro/alejandro/76770.ts
-#EXTINF:-1,US: SPIKE EAST
-http://landiptv.live:8080/live/alejandro/alejandro/76772.ts
-#EXTINF:-1,US: SEC NETWORK HD
-http://landiptv.live:8080/live/alejandro/alejandro/76773.ts
-#EXTINF:-1,US: Reelz Channel HD
-http://landiptv.live:8080/live/alejandro/alejandro/76774.ts
-#EXTINF:-1,US: PAC-12 Washington FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76775.ts
-#EXTINF:-1,US: PAC-12 Oregon FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76776.ts
-#EXTINF:-1,US: PAC-12 Bay Area FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76777.ts
-#EXTINF:-1,US: NBC EAST
-http://landiptv.live:8080/live/alejandro/alejandro/76778.ts
-#EXTINF:-1,US: MTV EAST
-http://landiptv.live:8080/live/alejandro/alejandro/76782.ts
-#EXTINF:-1,US: LONGHORN
-http://landiptv.live:8080/live/alejandro/alejandro/76783.ts
-#EXTINF:-1,US: GET TV FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76784.ts
-#EXTINF:-1,US: FXX WEST
-http://landiptv.live:8080/live/alejandro/alejandro/76785.ts
-#EXTINF:-1,US: FXX EAST
-http://landiptv.live:8080/live/alejandro/alejandro/76786.ts
-#EXTINF:-1,US: FXM HD
-http://landiptv.live:8080/live/alejandro/alejandro/76787.ts
-#EXTINF:-1,US: FX EAST
-http://landiptv.live:8080/live/alejandro/alejandro/76789.ts
-#EXTINF:-1,US: Free form WEST
-http://landiptv.live:8080/live/alejandro/alejandro/76790.ts
-#EXTINF:-1,US: Freeform EAST
-http://landiptv.live:8080/live/alejandro/alejandro/76791.ts
-#EXTINF:-1,US: DIY NETWORK HD
-http://landiptv.live:8080/live/alejandro/alejandro/76795.ts
-#EXTINF:-1,US: Disney Channel HD
-http://landiptv.live:8080/live/alejandro/alejandro/76797.ts
-#EXTINF:-1,US: DISCOVERY SCIENCE FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76798.ts
-#EXTINF:-1,US: Boomerang
-http://landiptv.live:8080/live/alejandro/alejandro/76799.ts
-#EXTINF:-1,US: AFN Pluse
-http://landiptv.live:8080/live/alejandro/alejandro/76804.ts
-#EXTINF:-1,US: ABC WEST HD
-http://landiptv.live:8080/live/alejandro/alejandro/76806.ts
-#EXTINF:-1,US: NEWS 12 THE BRONX
-http://landiptv.live:8080/live/alejandro/alejandro/76807.ts
-#EXTINF:-1,US: CMT - Country Music Television WEST
-http://landiptv.live:8080/live/alejandro/alejandro/76810.ts
-#EXTINF:-1,US: CMT - Country Music Television EAST
-http://landiptv.live:8080/live/alejandro/alejandro/76811.ts
-#EXTINF:-1,US: TCM
-http://landiptv.live:8080/live/alejandro/alejandro/77075.ts
-#EXTINF:-1,US: ESPN U HD
-http://landiptv.live:8080/live/alejandro/alejandro/77078.ts
-#EXTINF:-1,US: TELEMUNDO
-http://landiptv.live:8080/live/alejandro/alejandro/77152.ts
-#EXTINF:-1,US: ION TV
-http://landiptv.live:8080/live/alejandro/alejandro/77178.ts
-#EXTINF:-1,US: 24/7 SOUTHPARK HD SERIES
-http://landiptv.live:8080/live/alejandro/alejandro/74904.ts
-#EXTINF:-1,US: FOX SOCCER SUN HD
-http://landiptv.live:8080/live/alejandro/alejandro/74908.ts
-#EXTINF:-1,US: MSNBC HD
-http://landiptv.live:8080/live/alejandro/alejandro/74909.ts
-#EXTINF:-1,US: HGTV HD
-http://landiptv.live:8080/live/alejandro/alejandro/74910.ts
-#EXTINF:-1,US: NHLTV NETWORK HD
-http://landiptv.live:8080/live/alejandro/alejandro/74911.ts
-#EXTINF:-1,US: NBA TV HD
-http://landiptv.live:8080/live/alejandro/alejandro/74912.ts
-#EXTINF:-1,US: C-SPAN 1 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74922.ts
-#EXTINF:-1,US: C-SPAN 2 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74923.ts
-#EXTINF:-1,US: C-SPAN 3 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74924.ts
-#EXTINF:-1,US: THE WEATHER CHANNEL HD
-http://landiptv.live:8080/live/alejandro/alejandro/74925.ts
-#EXTINF:-1,US: BBC WORLD NEWS
-http://landiptv.live:8080/live/alejandro/alejandro/74929.ts
-#EXTINF:-1,US: LMN HDTV
-http://landiptv.live:8080/live/alejandro/alejandro/74930.ts
-#EXTINF:-1,US: My9 TV
-http://landiptv.live:8080/live/alejandro/alejandro/74931.ts
-#EXTINF:-1,US: OWN HD (Oprah Winfrey TV)
-http://landiptv.live:8080/live/alejandro/alejandro/74933.ts
-#EXTINF:-1,US: TENNIS HD
-http://landiptv.live:8080/live/alejandro/alejandro/74936.ts
-#EXTINF:-1,US: TRU TV HD
-http://landiptv.live:8080/live/alejandro/alejandro/74937.ts
-#EXTINF:-1,US: NASA TV HD
-http://landiptv.live:8080/live/alejandro/alejandro/74946.ts
-#EXTINF:-1,US: KIDS READING TV
-http://landiptv.live:8080/live/alejandro/alejandro/74949.ts
-#EXTINF:-1,US: QVC Beauty IQ
-http://landiptv.live:8080/live/alejandro/alejandro/74950.ts
-#EXTINF:-1,US: QVC Live
-http://landiptv.live:8080/live/alejandro/alejandro/74951.ts
-#EXTINF:-1,US: QVC
-http://landiptv.live:8080/live/alejandro/alejandro/74952.ts
-#EXTINF:-1,US: SHOWTIME HD
-http://landiptv.live:8080/live/alejandro/alejandro/75113.ts
-#EXTINF:-1,US: Willow Cricket HD
-http://landiptv.live:8080/live/alejandro/alejandro/75119.ts
-#EXTINF:-1,US: ANIMAL PLANET HD
-http://landiptv.live:8080/live/alejandro/alejandro/75120.ts
 #EXTINF:-1,US: ABC HD
-http://landiptv.live:8080/live/alejandro/alejandro/75121.ts
-#EXTINF:-1,US: TBS HD
-http://landiptv.live:8080/live/alejandro/alejandro/75123.ts
-#EXTINF:-1,US: NAT GEO HD
-http://landiptv.live:8080/live/alejandro/alejandro/75124.ts
-#EXTINF:-1,US: ESPN News HD
-http://landiptv.live:8080/live/alejandro/alejandro/75125.ts
-#EXTINF:-1,US: ESPN USA HD
-http://landiptv.live:8080/live/alejandro/alejandro/75126.ts
-#EXTINF:-1,US: ESPN 2 HD
-http://landiptv.live:8080/live/alejandro/alejandro/75127.ts
-#EXTINF:-1,US: NFL Channel HD
-http://landiptv.live:8080/live/alejandro/alejandro/75130.ts
-#EXTINF:-1,US: Golf HD
-http://landiptv.live:8080/live/alejandro/alejandro/75132.ts
-#EXTINF:-1,US: Tennis Channel HD
-http://landiptv.live:8080/live/alejandro/alejandro/75135.ts
-#EXTINF:-1,US: NFL Network FHD
-http://landiptv.live:8080/live/alejandro/alejandro/75140.ts
-#EXTINF:-1,US: Cinemax FHD
-http://landiptv.live:8080/live/alejandro/alejandro/75141.ts
-#EXTINF:-1,US: IFC FHD
-http://landiptv.live:8080/live/alejandro/alejandro/75143.ts
-#EXTINF:-1,US: Viceland HD
-http://landiptv.live:8080/live/alejandro/alejandro/75790.ts
-#EXTINF:-1,US: MAV TV
-http://landiptv.live:8080/live/alejandro/alejandro/75807.ts
-#EXTINF:-1,US: BET HD
-http://landiptv.live:8080/live/alejandro/alejandro/75822.ts
-#EXTINF:-1,US: Velocity HD
-http://landiptv.live:8080/live/alejandro/alejandro/75831.ts
-#EXTINF:-1,US: Starz Comedy HD
-http://landiptv.live:8080/live/alejandro/alejandro/75850.ts
-#EXTINF:-1,US: Oxygen HD
-http://landiptv.live:8080/live/alejandro/alejandro/75859.ts
-#EXTINF:-1,US: INVESTIGATION DISCOVERY HD
-http://landiptv.live:8080/live/alejandro/alejandro/75877.ts
-#EXTINF:-1,US: HLN
-http://landiptv.live:8080/live/alejandro/alejandro/75879.ts
-#EXTINF:-1,US: HBO Zone HD
-http://landiptv.live:8080/live/alejandro/alejandro/75884.ts
-#EXTINF:-1,US: HBO Signature HD
-http://landiptv.live:8080/live/alejandro/alejandro/75886.ts
-#EXTINF:-1,US: HBO Comedy ʜᴅ
-http://landiptv.live:8080/live/alejandro/alejandro/75889.ts
-#EXTINF:-1,US: E! HD
-http://landiptv.live:8080/live/alejandro/alejandro/75906.ts
-#EXTINF:-1,US: Destination America
-http://landiptv.live:8080/live/alejandro/alejandro/75908.ts
-#EXTINF:-1,US: CW HD
-http://landiptv.live:8080/live/alejandro/alejandro/75922.ts
-#EXTINF:-1,US: CNN HD
-http://landiptv.live:8080/live/alejandro/alejandro/75924.ts
-#EXTINF:-1,US: BLOOMBERG HD
-http://landiptv.live:8080/live/alejandro/alejandro/75944.ts
-#EXTINF:-1,US: American Heroes Channel
-http://landiptv.live:8080/live/alejandro/alejandro/75950.ts
-#EXTINF:-1,US: A&E HD
-http://landiptv.live:8080/live/alejandro/alejandro/75963.ts
-#EXTINF:-1,US: WWE Network HD
-http://landiptv.live:8080/live/alejandro/alejandro/76419.ts
-#EXTINF:-1,US: TRT World FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76421.ts
-#EXTINF:-1,US: The Blaze
-http://landiptv.live:8080/live/alejandro/alejandro/76422.ts
-#EXTINF:-1,US: TBN HD
-http://landiptv.live:8080/live/alejandro/alejandro/76423.ts
-#EXTINF:-1,US: SEC Network FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76425.ts
-#EXTINF:-1,US: Science HD
-http://landiptv.live:8080/live/alejandro/alejandro/76426.ts
-#EXTINF:-1,US: Pursuit HD
-http://landiptv.live:8080/live/alejandro/alejandro/76427.ts
-#EXTINF:-1,US: PRESS TV
-http://landiptv.live:8080/live/alejandro/alejandro/76428.ts
-#EXTINF:-1,US: PAC-12 WASHINGTON HD
-http://landiptv.live:8080/live/alejandro/alejandro/76429.ts
-#EXTINF:-1,US: PAC-12 OREGON HD
-http://landiptv.live:8080/live/alejandro/alejandro/76430.ts
-#EXTINF:-1,US: PAC-12 LOS ANGELES HD
-http://landiptv.live:8080/live/alejandro/alejandro/76431.ts
-#EXTINF:-1,US: PAC-12 BAY AREA HD
-http://landiptv.live:8080/live/alejandro/alejandro/76432.ts
-#EXTINF:-1,US: PAC-12 Arizona FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76433.ts
-#EXTINF:-1,US: Grit
-http://landiptv.live:8080/live/alejandro/alejandro/76439.ts
-#EXTINF:-1,US: FOX West
-http://landiptv.live:8080/live/alejandro/alejandro/76440.ts
-#EXTINF:-1,US: Fox Soccer Plus HD
-http://landiptv.live:8080/live/alejandro/alejandro/76441.ts
-#EXTINF:-1,US: FOX 43 HD
-http://landiptv.live:8080/live/alejandro/alejandro/76443.ts
-#EXTINF:-1,US: Food Network FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76444.ts
-#EXTINF:-1,US: ESPN FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76445.ts
-#EXTINF:-1,US: ESPN 2 FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76446.ts
-#EXTINF:-1,US: Epix FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76448.ts
-#EXTINF:-1,US: El Rey Network FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76449.ts
-#EXTINF:-1,US: Discovery Showcase
-http://landiptv.live:8080/live/alejandro/alejandro/76450.ts
-#EXTINF:-1,US: BBC America FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76453.ts
-#EXTINF:-1,US: VH1 Classic
-http://landiptv.live:8080/live/alejandro/alejandro/76464.ts
-#EXTINF:-1,US: TV LAND HD
-http://landiptv.live:8080/live/alejandro/alejandro/76468.ts
-#EXTINF:-1,US: TRT World HD
-http://landiptv.live:8080/live/alejandro/alejandro/76469.ts
-#EXTINF:-1,US: Starz West HD
-http://landiptv.live:8080/live/alejandro/alejandro/76476.ts
-#EXTINF:-1,US: Starz Edge HD
-http://landiptv.live:8080/live/alejandro/alejandro/76478.ts
-#EXTINF:-1,US: Starz East HD
-http://landiptv.live:8080/live/alejandro/alejandro/76479.ts
-#EXTINF:-1,US: SPIKE HD
-http://landiptv.live:8080/live/alejandro/alejandro/76482.ts
-#EXTINF:-1,US: Showtime 2 HD
-http://landiptv.live:8080/live/alejandro/alejandro/76483.ts
-#EXTINF:-1,US: Showcase
-http://landiptv.live:8080/live/alejandro/alejandro/76485.ts
-#EXTINF:-1,US: RT America
-http://landiptv.live:8080/live/alejandro/alejandro/76486.ts
-#EXTINF:-1,US: Red Bull TV
-http://landiptv.live:8080/live/alejandro/alejandro/76487.ts
-#EXTINF:-1,US: OWN HD
-http://landiptv.live:8080/live/alejandro/alejandro/76490.ts
-#EXTINF:-1,US: NBCSN HD
-http://landiptv.live:8080/live/alejandro/alejandro/76493.ts
-#EXTINF:-1,US: MoreMax HD
-http://landiptv.live:8080/live/alejandro/alejandro/76501.ts
-#EXTINF:-1,US: LMN HD
-http://landiptv.live:8080/live/alejandro/alejandro/76502.ts
-#EXTINF:-1,US: iON
-http://landiptv.live:8080/live/alejandro/alejandro/76506.ts
-#EXTINF:-1,US: IFC HD
-http://landiptv.live:8080/live/alejandro/alejandro/76508.ts
-#EXTINF:-1,US: HIFI HD
-http://landiptv.live:8080/live/alejandro/alejandro/76512.ts
-#EXTINF:-1,US: HGTV FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76513.ts
-#EXTINF:-1,US: HBO HD
-http://landiptv.live:8080/live/alejandro/alejandro/76520.ts
+http://vtv.selfip.net:8080/live/01/02/1834.ts
+#EXTINF:-1,US: ABC Spark
+http://vtv.selfip.net:8080/live/01/02/1300.ts
+#EXTINF:-1,US: CBS HD
+http://vtv.selfip.net:8080/live/01/02/2380.ts
+#EXTINF:-1,US: The CW
+http://vtv.selfip.net:8080/live/01/02/1796.ts
+#EXTINF:-1,US: FOX
+http://vtv.selfip.net:8080/live/01/02/1288.ts
+#EXTINF:-1,US: NBC
+http://vtv.selfip.net:8080/live/01/02/1277.ts
+#EXTINF:-1,US: NBC Golf HD
+http://vtv.selfip.net:8080/live/01/02/1357.ts
+#EXTINF:-1,US: AMC
+http://vtv.selfip.net:8080/live/01/02/1282.ts
+#EXTINF:-1,US: A&E
+http://vtv.selfip.net:8080/live/01/02/1280.ts
+#EXTINF:-1,US: Tru TV
+http://vtv.selfip.net:8080/live/01/02/1279.ts
+#EXTINF:-1,US: TNT
+http://vtv.selfip.net:8080/live/01/02/1278.ts
+#EXTINF:-1,US: TBS
+http://vtv.selfip.net:8080/live/01/02/1291.ts
+#EXTINF:-1,US: HGTV
+http://vtv.selfip.net:8080/live/01/02/1290.ts
+#EXTINF:-1,US: USA Network
+http://vtv.selfip.net:8080/live/01/02/794.ts
+#EXTINF:-1,US: Spike
+http://vtv.selfip.net:8080/live/01/02/1289.ts
+#EXTINF:-1,US: WWE HD
+http://vtv.selfip.net:8080/live/01/02/1959.ts
+#EXTINF:-1,US: OWN
+http://vtv.selfip.net:8080/live/01/02/2367.ts
+#EXTINF:-1,US: Bet
+http://vtv.selfip.net:8080/live/01/02/2363.ts
+#EXTINF:-1,US: Bravo
+http://vtv.selfip.net:8080/live/01/02/2368.ts
+#EXTINF:-1,US: Spectrum
+http://vtv.selfip.net:8080/live/01/02/2371.ts
+#EXTINF:-1,US: FOX News
+http://vtv.selfip.net:8080/live/01/02/1087.ts
+#EXTINF:-1,US: NBCSN
+http://vtv.selfip.net:8080/live/01/02/1286.ts
+#EXTINF:-1,US: MSNBC
+http://vtv.selfip.net:8080/live/01/02/1302.ts
+#EXTINF:-1,US: CNBC
+http://vtv.selfip.net:8080/live/01/02/1301.ts
+#EXTINF:-1,US: CNN
+http://vtv.selfip.net:8080/live/01/02/810.ts
+#EXTINF:-1,US: E! Network HD
+http://vtv.selfip.net:8080/live/01/02/1430.ts
+#EXTINF:-1,US: LifeTime HD
+http://vtv.selfip.net:8080/live/01/02/1281.ts
+#EXTINF:-1,US: CITY HD
+http://vtv.selfip.net:8080/live/01/02/1365.ts
+#EXTINF:-1,US: FX HD
+http://vtv.selfip.net:8080/live/01/02/1364.ts
+#EXTINF:-1,US: SyFy HD
+http://vtv.selfip.net:8080/live/01/02/1431.ts
+#EXTINF:-1,US: Channel 5
+http://vtv.selfip.net:8080/live/01/02/2186.ts
+#EXTINF:-1,US: Food Network HD
+http://vtv.selfip.net:8080/live/01/02/1432.ts
+#EXTINF:-1,US: Disney Channel HD
+http://vtv.selfip.net:8080/live/01/02/1072.ts
+#EXTINF:-1,US: Disney Junior
+http://vtv.selfip.net:8080/live/01/02/1864.ts
+#EXTINF:-1,US: Disney XD
+http://vtv.selfip.net:8080/live/01/02/1086.ts
+#EXTINF:-1,US: NICK HD (kids)
+http://vtv.selfip.net:8080/live/01/02/1369.ts
+#EXTINF:-1,US: Nick HD
+http://vtv.selfip.net:8080/live/01/02/1958.ts
+#EXTINF:-1,US: Cinemax ActionMax
+http://vtv.selfip.net:8080/live/01/02/1367.ts
+#EXTINF:-1,US: Comedy Central HD
+http://vtv.selfip.net:8080/live/01/02/1434.ts
 #EXTINF:-1,US: HALLMARK HD
-http://landiptv.live:8080/live/alejandro/alejandro/76521.ts
-#EXTINF:-1,US: FREE FORM HD
-http://landiptv.live:8080/live/alejandro/alejandro/76523.ts
-#EXTINF:-1,US: ESPN 3
-http://landiptv.live:8080/live/alejandro/alejandro/76533.ts
-#EXTINF:-1,US: DAYSTAR HD
-http://landiptv.live:8080/live/alejandro/alejandro/76539.ts
-#EXTINF:-1,US: CW Network
-http://landiptv.live:8080/live/alejandro/alejandro/76540.ts
-#EXTINF:-1,US: Comedy Central EAST
-http://landiptv.live:8080/live/alejandro/alejandro/76542.ts
-#EXTINF:-1,US: Cozi
-http://landiptv.live:8080/live/alejandro/alejandro/76546.ts
-#EXTINF:-1,US: COOKING CHANNEL FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76547.ts
-#EXTINF:-1,US: CNN FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76548.ts
-#EXTINF:-1,US: CAPITAL TV
-http://landiptv.live:8080/live/alejandro/alejandro/76551.ts
-#EXTINF:-1,US: COOKING CHANNEL HD
-http://landiptv.live:8080/live/alejandro/alejandro/76553.ts
-#EXTINF:-1,US: CINEMAX HD
-http://landiptv.live:8080/live/alejandro/alejandro/76560.ts
-#EXTINF:-1,US: CBSN HD
-http://landiptv.live:8080/live/alejandro/alejandro/76561.ts
-#EXTINF:-1,US: Beauty iQ
-http://landiptv.live:8080/live/alejandro/alejandro/76578.ts
-#EXTINF:-1,US: AMG TV
-http://landiptv.live:8080/live/alejandro/alejandro/76579.ts
-#EXTINF:-1,US: AFN SPECTRUM HD
-http://landiptv.live:8080/live/alejandro/alejandro/76585.ts
-#EXTINF:-1,US: AFN PULSE HD
-http://landiptv.live:8080/live/alejandro/alejandro/76586.ts
-#EXTINF:-1,US: CINEMAX ACTOIN MAX EAST
-http://landiptv.live:8080/live/alejandro/alejandro/94708.ts
-#EXTINF:-1,US: NBA HD
-http://landiptv.live:8080/live/alejandro/alejandro/94718.ts
-#EXTINF:-1,US: BET HER
-http://landiptv.live:8080/live/alejandro/alejandro/91733.ts
-#EXTINF:-1,US: Astro Super sport 1
-http://landiptv.live:8080/live/alejandro/alejandro/92441.ts
-#EXTINF:-1,US: Astro Super sport 4
-http://landiptv.live:8080/live/alejandro/alejandro/92442.ts
-#EXTINF:-1,US: CBS ACTION
-http://landiptv.live:8080/live/alejandro/alejandro/92444.ts
-#EXTINF:-1,US: CBS REALITY
-http://landiptv.live:8080/live/alejandro/alejandro/92445.ts
-#EXTINF:-1,US: Discovery shocase
-http://landiptv.live:8080/live/alejandro/alejandro/92450.ts
-#EXTINF:-1,US: FOX SPORTS HD ASIA
-http://landiptv.live:8080/live/alejandro/alejandro/92455.ts
-#EXTINF:-1,US: NFL
-http://landiptv.live:8080/live/alejandro/alejandro/92461.ts
-#EXTINF:-1,US: Sportnet One
-http://landiptv.live:8080/live/alejandro/alejandro/92462.ts
-#EXTINF:-1,US: Sportnet Ontario
-http://landiptv.live:8080/live/alejandro/alejandro/92463.ts
-#EXTINF:-1,US: MTV 2 HD
-http://landiptv.live:8080/live/alejandro/alejandro/92477.ts
-#EXTINF:-1,US: TV SERIES
-http://landiptv.live:8080/live/alejandro/alejandro/92482.ts
-#EXTINF:-1,US: WEATHERNATION
-http://landiptv.live:8080/live/alejandro/alejandro/92485.ts
-#EXTINF:-1,US: CBS EAST
-http://landiptv.live:8080/live/alejandro/alejandro/92797.ts
-#EXTINF:-1,US: DOG TV
-http://landiptv.live:8080/live/alejandro/alejandro/92798.ts
-#EXTINF:-1,US: FXM EAST
-http://landiptv.live:8080/live/alejandro/alejandro/92800.ts
-#EXTINF:-1,US: HISTORY CHANNEL FHD
-http://landiptv.live:8080/live/alejandro/alejandro/92801.ts
-#EXTINF:-1,US: MOTORSPORT TV
-http://landiptv.live:8080/live/alejandro/alejandro/92804.ts
-#EXTINF:-1,US: MSG2
-http://landiptv.live:8080/live/alejandro/alejandro/92805.ts
-#EXTINF:-1,US: MY 9
-http://landiptv.live:8080/live/alejandro/alejandro/92807.ts
-#EXTINF:-1,US: NBC 4 LA
-http://landiptv.live:8080/live/alejandro/alejandro/92808.ts
-#EXTINF:-1,US: NBC UNIVERSO
-http://landiptv.live:8080/live/alejandro/alejandro/92809.ts
-#EXTINF:-1,US: PBS WLIW 21
-http://landiptv.live:8080/live/alejandro/alejandro/92810.ts
-#EXTINF:-1,US: SPORTSMAN CHANNEL
-http://landiptv.live:8080/live/alejandro/alejandro/92811.ts
-#EXTINF:-1,US: TBN Trinity Broadcasting Network
-http://landiptv.live:8080/live/alejandro/alejandro/92812.ts
-#EXTINF:-1,US: TEEN NICK
-http://landiptv.live:8080/live/alejandro/alejandro/92813.ts
-#EXTINF:-1,US: WORLD FISHING NETWORK
-http://landiptv.live:8080/live/alejandro/alejandro/92814.ts
-#EXTINF:-1,US: CNN International
-http://landiptv.live:8080/live/alejandro/alejandro/79995.ts
-#EXTINF:-1,US: Showtime HDTV
-http://landiptv.live:8080/live/alejandro/alejandro/80003.ts
-#EXTINF:-1,US: BLOOMBERG TV
-http://landiptv.live:8080/live/alejandro/alejandro/80009.ts
-#EXTINF:-1,US: EURO NEWS
-http://landiptv.live:8080/live/alejandro/alejandro/80010.ts
-#EXTINF:-1,US: Fight Network / MMA Network
-http://landiptv.live:8080/live/alejandro/alejandro/80011.ts
-#EXTINF:-1,US: GRIT TV MOVIES
-http://landiptv.live:8080/live/alejandro/alejandro/80014.ts
-#EXTINF:-1,US: HBO 2 COMEDY
-http://landiptv.live:8080/live/alejandro/alejandro/80015.ts
-#EXTINF:-1,US: MLB HD
-http://landiptv.live:8080/live/alejandro/alejandro/80019.ts
-#EXTINF:-1,US: Versus NBA
-http://landiptv.live:8080/live/alejandro/alejandro/80020.ts
-#EXTINF:-1,US: DEPORTES HD
-http://landiptv.live:8080/live/alejandro/alejandro/80022.ts
-#EXTINF:-1,US: Cinema 06 PPV
-http://landiptv.live:8080/live/alejandro/alejandro/84376.ts
-#EXTINF:-1,US: HBO Plus West HD
-http://landiptv.live:8080/live/alejandro/alejandro/84377.ts
-#EXTINF:-1,US: Starz Encore Family HD
-http://landiptv.live:8080/live/alejandro/alejandro/84378.ts
-#EXTINF:-1,US: ACTION MAX HD
-http://landiptv.live:8080/live/alejandro/alejandro/84830.ts
-#EXTINF:-1,US: FOX HD
-http://landiptv.live:8080/live/alejandro/alejandro/84838.ts
-#EXTINF:-1,US: HALMARK HD
-http://landiptv.live:8080/live/alejandro/alejandro/84841.ts
-#EXTINF:-1,US: ION TELEVISION
-http://landiptv.live:8080/live/alejandro/alejandro/84845.ts
-#EXTINF:-1,US: Nickelodeon HD
-http://landiptv.live:8080/live/alejandro/alejandro/84857.ts
-#EXTINF:-1,US: PARAMOUNT
-http://landiptv.live:8080/live/alejandro/alejandro/84861.ts
-#EXTINF:-1,US: WEATHER CHANNEL HD
-http://landiptv.live:8080/live/alejandro/alejandro/84871.ts
-#EXTINF:-1,US: GOLTV EN
-http://landiptv.live:8080/live/alejandro/alejandro/84902.ts
-#EXTINF:-1,US: OLYMPIC CHANNEL HD
-http://landiptv.live:8080/live/alejandro/alejandro/84914.ts
-#EXTINF:-1,US: PAC-12 NETWORKS HD
-http://landiptv.live:8080/live/alejandro/alejandro/84918.ts
-#EXTINF:-1,US: PAC-12 MOUTAIN HD
-http://landiptv.live:8080/live/alejandro/alejandro/84919.ts
-#EXTINF:-1,US: NHL Network HD
-http://landiptv.live:8080/live/alejandro/alejandro/62198.ts
+http://vtv.selfip.net:8080/live/01/02/1363.ts
+#EXTINF:-1,US: HBO
+http://vtv.selfip.net:8080/live/01/02/1276.ts
+#EXTINF:-1,US: HBO HD
+http://vtv.selfip.net:8080/live/01/02/1361.ts
+#EXTINF:-1,US: HBO 2 Comedy HD
+http://vtv.selfip.net:8080/live/01/02/1362.ts
+#EXTINF:-1,US: HBO ZONE
+http://vtv.selfip.net:8080/live/01/02/1359.ts
+#EXTINF:-1,US: HBO Famely HD
+http://vtv.selfip.net:8080/live/01/02/1068.ts
+#EXTINF:-1,US: HBO Signature HD
+http://vtv.selfip.net:8080/live/01/02/1360.ts
+#EXTINF:-1,US: Showtime 1 HD
+http://vtv.selfip.net:8080/live/01/02/1356.ts
+#EXTINF:-1,US: Showtime 2 HD
+http://vtv.selfip.net:8080/live/01/02/1355.ts
+#EXTINF:-1,US: AFN Prime Atlantic
+http://vtv.selfip.net:8080/live/01/02/1950.ts
+#EXTINF:-1,US: Starz Cinema
+http://vtv.selfip.net:8080/live/01/02/1353.ts
+#EXTINF:-1,US: Starz Comedy
+http://vtv.selfip.net:8080/live/01/02/1352.ts
+#EXTINF:-1,US: Starz East
+http://vtv.selfip.net:8080/live/01/02/1351.ts
+#EXTINF:-1,US: Starz West
+http://vtv.selfip.net:8080/live/01/02/1350.ts
+#EXTINF:-1,US: FOX Sport One America
+http://vtv.selfip.net:8080/live/01/02/1293.ts
+#EXTINF:-1,US: FOX Sport Two America
+http://vtv.selfip.net:8080/live/01/02/1795.ts
+#EXTINF:-1,US: NBA
+http://vtv.selfip.net:8080/live/01/02/1957.ts
+#EXTINF:-1,US: NBC Sport
+http://vtv.selfip.net:8080/live/01/02/1951.ts
+#EXTINF:-1,US: MBL
+http://vtv.selfip.net:8080/live/01/02/2364.ts
+#EXTINF:-1,US: TLC
+http://vtv.selfip.net:8080/live/01/02/2366.ts
+#EXTINF:-1,US: DTX
+http://vtv.selfip.net:8080/live/01/02/2369.ts
+#EXTINF:-1,US: NatGeo HD
+http://vtv.selfip.net:8080/live/01/02/1956.ts
+#EXTINF:-1,US: National Geographic Channel
+http://vtv.selfip.net:8080/live/01/02/1112.ts
+#EXTINF:-1,US: NatGeo Wild
+http://vtv.selfip.net:8080/live/01/02/818.ts
+#EXTINF:-1,US: H2
+http://vtv.selfip.net:8080/live/01/02/1955.ts
+#EXTINF:-1,US: Animal Planet HD
+http://vtv.selfip.net:8080/live/01/02/1952.ts
+#EXTINF:-1,US: Discovery HD
+http://vtv.selfip.net:8080/live/01/02/1953.ts
+#EXTINF:-1,US: Discovery ShowCase
+http://vtv.selfip.net:8080/live/01/02/2365.ts
+#EXTINF:-1,US: Discovery ID Extra
+http://vtv.selfip.net:8080/live/01/02/2370.ts
+#EXTINF:-1,US: Discovery Slience
+http://vtv.selfip.net:8080/live/01/02/1954.ts
+#EXTINF:-1,US: Discovery Channel
+http://vtv.selfip.net:8080/live/01/02/1060.ts
+#EXTINF:-1,US: Food Network
+http://vtv.selfip.net:8080/live/01/02/1108.ts
+#EXTINF:-1,US: CBS Sport
+http://vtv.selfip.net:8080/live/01/02/1997.ts
+#EXTINF:-1,US: ESPN 1
+http://vtv.selfip.net:8080/live/01/02/1285.ts
+#EXTINF:-1,US: ESPN 2
+http://vtv.selfip.net:8080/live/01/02/1292.ts
+#EXTINF:-1,US: BT Sport / ESPN
+http://vtv.selfip.net:8080/live/01/02/1295.ts
+#EXTINF:-1,US: BT Sport 1
+http://vtv.selfip.net:8080/live/01/02/803.ts
 #EXTINF:-1,US: NFL Now
-http://landiptv.live:8080/live/alejandro/alejandro/67029.ts
-#EXTINF:-1,US: beIN Sports HD
-http://landiptv.live:8080/live/alejandro/alejandro/67158.ts
-#EXTINF:-1,US: NBC Sports HD (Premier League)
-http://landiptv.live:8080/live/alejandro/alejandro/74827.ts
-#EXTINF:-1,US: SportsNet Ontario HD (Premier League)
-http://landiptv.live:8080/live/alejandro/alejandro/74828.ts
-#EXTINF:-1,US: AFN Sports HD
-http://landiptv.live:8080/live/alejandro/alejandro/74880.ts
-#EXTINF:-1,US: AFN Sports 2 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74881.ts
-#EXTINF:-1,US: TSN 1 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74882.ts
-#EXTINF:-1,US: TSN 2 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74883.ts
-#EXTINF:-1,US: TSN 3 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74884.ts
-#EXTINF:-1,US: TSN 4 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74885.ts
-#EXTINF:-1,US: TSN 5 HD
-http://landiptv.live:8080/live/alejandro/alejandro/74886.ts
-#EXTINF:-1,US: Fight Sport 1
-http://landiptv.live:8080/live/alejandro/alejandro/74913.ts
-#EXTINF:-1,US: Fight Sport 2
-http://landiptv.live:8080/live/alejandro/alejandro/74916.ts
-#EXTINF:-1,US: FOX SPORTS TWO HD
-http://landiptv.live:8080/live/alejandro/alejandro/74921.ts
-#EXTINF:-1,US: CBS Sports Network HD
-http://landiptv.live:8080/live/alejandro/alejandro/75131.ts
-#EXTINF:-1,US: NBC Sports Network HD
-http://landiptv.live:8080/live/alejandro/alejandro/75133.ts
-#EXTINF:-1,US: BTN Sport HD
-http://landiptv.live:8080/live/alejandro/alejandro/75821.ts
-#EXTINF:-1,US: CBS Sports HD
-http://landiptv.live:8080/live/alejandro/alejandro/75913.ts
-#EXTINF:-1,US: NBC Sport FHD
-http://landiptv.live:8080/live/alejandro/alejandro/76458.ts
-#EXTINF:-1,US: BYU Sports TV
-http://landiptv.live:8080/live/alejandro/alejandro/76569.ts
-#EXTINF:-1,US: Fox Sports North HD
-http://landiptv.live:8080/live/alejandro/alejandro/78321.ts
-#EXTINF:-1,US: Fox Sports Arizona HD
-http://landiptv.live:8080/live/alejandro/alejandro/78322.ts
-#EXTINF:-1,US: Fox Sports College Central HD
-http://landiptv.live:8080/live/alejandro/alejandro/78324.ts
-#EXTINF:-1,US: Fox Sports Detroit HD
-http://landiptv.live:8080/live/alejandro/alejandro/78326.ts
-#EXTINF:-1,US: Fox Sports Mid West HD
-http://landiptv.live:8080/live/alejandro/alejandro/78327.ts
-#EXTINF:-1,US: Fox Sports Ohio HD
-http://landiptv.live:8080/live/alejandro/alejandro/78328.ts
-#EXTINF:-1,US: Fox Sports San Diego HD
-http://landiptv.live:8080/live/alejandro/alejandro/78330.ts
-#EXTINF:-1,US: Fox Sports South HD
-http://landiptv.live:8080/live/alejandro/alejandro/78331.ts
-#EXTINF:-1,US: Fox Sports South East HD
-http://landiptv.live:8080/live/alejandro/alejandro/78332.ts
-#EXTINF:-1,US: Fox Sports South West HD
-http://landiptv.live:8080/live/alejandro/alejandro/78333.ts
-#EXTINF:-1,US: Fox Sports Tennessee HD
-http://landiptv.live:8080/live/alejandro/alejandro/78334.ts
-#EXTINF:-1,US: Fox Sports West HD
-http://landiptv.live:8080/live/alejandro/alejandro/78335.ts
-#EXTINF:-1,US: Fox Sports Wisconsin HD
-http://landiptv.live:8080/live/alejandro/alejandro/78336.ts
-#EXTINF:-1,US: Fox Sports Sun HD
-http://landiptv.live:8080/live/alejandro/alejandro/78338.ts
-#EXTINF:-1,US: CBS Sports (CBSSN) HD
-http://landiptv.live:8080/live/alejandro/alejandro/78375.ts
-#EXTINF:-1,US: NESN HD
-http://landiptv.live:8080/live/alejandro/alejandro/91536.ts
-#EXTINF:-1,US: KBVR TV FHD
-http://landiptv.live:8080/live/alejandro/alejandro/91537.ts
-#EXTINF:-1,US: Key TV HD
-http://landiptv.live:8080/live/alejandro/alejandro/91538.ts
-#EXTINF:-1,US: Movee4U Chicago HD
-http://landiptv.live:8080/live/alejandro/alejandro/91539.ts
-#EXTINF:-1,US: New Movies
-http://landiptv.live:8080/live/alejandro/alejandro/91541.ts
-#EXTINF:-1,US: 360 North FHD
-http://landiptv.live:8080/live/alejandro/alejandro/91667.ts
-#EXTINF:-1,US: ABC 2
-http://landiptv.live:8080/live/alejandro/alejandro/91669.ts
-#EXTINF:-1,US: CBN
-http://landiptv.live:8080/live/alejandro/alejandro/91675.ts
-#EXTINF:-1,US: NBC GOLD Premier League 1 {LIVE ONLY}
-http://landiptv.live:8080/live/alejandro/alejandro/91780.ts
-#EXTINF:-1,US: NBC GOLD Premier League 2 {LIVE ONLY}
-http://landiptv.live:8080/live/alejandro/alejandro/91781.ts
-#EXTINF:-1,US: NBC GOLD PREMIER LEAGUE 1 FHD (match time)
-http://landiptv.live:8080/live/alejandro/alejandro/91585.ts
-#EXTINF:-1,US: NBCSN EPL Live Match 1 HD
-http://landiptv.live:8080/live/alejandro/alejandro/76646.ts
-#EXTINF:-1,US: NBA PASS 1
-http://landiptv.live:8080/live/alejandro/alejandro/92815.ts
-#EXTINF:-1,US: NBA PASS 2
-http://landiptv.live:8080/live/alejandro/alejandro/92819.ts
-#EXTINF:-1,US: NBA PASS 3
-http://landiptv.live:8080/live/alejandro/alejandro/92820.ts
-#EXTINF:-1,US: NHL PASS HD 1
-http://landiptv.live:8080/live/alejandro/alejandro/92848.ts
-#EXTINF:-1,US: NHL PASS HD 2
-http://landiptv.live:8080/live/alejandro/alejandro/92853.ts
-#EXTINF:-1,US: Univision Deportes
-http://landiptv.live:8080/live/alejandro/alejandro/95121.ts
-#EXTINF:-1,US: ESPN Deportes
-http://landiptv.live:8080/live/alejandro/alejandro/95122.ts
-#EXTINF:-1,US: NBC 11 NEWS (BAY AREA)
-http://landiptv.live:8080/live/alejandro/alejandro/95141.ts
-#EXTINF:-1,US: American Hero Channel HD
-http://landiptv.live:8080/live/alejandro/alejandro/95145.ts
-#EXTINF:-1,US: Animal Planet FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95146.ts
-#EXTINF:-1,US: Bravo FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95147.ts
-#EXTINF:-1,US: ESPN USA FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95149.ts
-#EXTINF:-1,US: FX FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95150.ts
-#EXTINF:-1,US: Golf FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95151.ts
-#EXTINF:-1,US: Hallmark Channel FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95152.ts
-#EXTINF:-1,US: HBO Signature FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95153.ts
-#EXTINF:-1,US: Velocity FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95157.ts
-#EXTINF:-1,US: NBC Sports Network FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95158.ts
-#EXTINF:-1,US: Reelz FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95159.ts
-#EXTINF:-1,US: TLC FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95161.ts
-#EXTINF:-1,US: CBS FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95162.ts
-#EXTINF:-1,US: Viceland FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95164.ts
-#EXTINF:-1,US: NAT GEO Wild FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95165.ts
-#EXTINF:-1,US: SPORTSNET NY
-http://landiptv.live:8080/live/alejandro/alejandro/77169.ts
-#EXTINF:-1,US: E! Entertainment US
-http://landiptv.live:8080/live/alejandro/alejandro/95407.ts
-#EXTINF:-1,US: Fox SPORTS 506 HD
-http://landiptv.live:8080/live/alejandro/alejandro/87777.ts
-#EXTINF:-1,US: 360 North
-http://landiptv.live:8080/live/alejandro/alejandro/95457.ts
-#EXTINF:-1,US: FreeRom
-http://landiptv.live:8080/live/alejandro/alejandro/95467.ts
-#EXTINF:-1,US: NASA
-http://landiptv.live:8080/live/alejandro/alejandro/95475.ts
-#EXTINF:-1,US: World Fashion Channel
-http://landiptv.live:8080/live/alejandro/alejandro/95478.ts
-#EXTINF:-1,US: Discovery ID
-http://landiptv.live:8080/live/alejandro/alejandro/95501.ts
-#EXTINF:-1,US: Sport1
-http://landiptv.live:8080/live/alejandro/alejandro/95503.ts
-#EXTINF:-1,US: Music
-http://landiptv.live:8080/live/alejandro/alejandro/95536.ts
-#EXTINF:-1,US: E! Entertainment
-http://landiptv.live:8080/live/alejandro/alejandro/95540.ts
-#EXTINF:-1,US: MLB Live
-http://landiptv.live:8080/live/alejandro/alejandro/95552.ts
-#EXTINF:-1,US: PAC Arizona
-http://landiptv.live:8080/live/alejandro/alejandro/95553.ts
-#EXTINF:-1,US: PAC Bay Area
-http://landiptv.live:8080/live/alejandro/alejandro/95554.ts
-#EXTINF:-1,US: PAC Los Angeles
-http://landiptv.live:8080/live/alejandro/alejandro/95555.ts
-#EXTINF:-1,US: PAC Mountain
-http://landiptv.live:8080/live/alejandro/alejandro/95556.ts
-#EXTINF:-1,US: PAC Oregon
-http://landiptv.live:8080/live/alejandro/alejandro/95557.ts
-#EXTINF:-1,US: PAC Washington
-http://landiptv.live:8080/live/alejandro/alejandro/95558.ts
-#EXTINF:-1,US: Fight Box
-http://landiptv.live:8080/live/alejandro/alejandro/95562.ts
-#EXTINF:-1,US: Reelz
-http://landiptv.live:8080/live/alejandro/alejandro/95568.ts
-#EXTINF:-1,US: Star Edge East US
-http://landiptv.live:8080/live/alejandro/alejandro/87717.ts
-#EXTINF:-1,US: The Florida Channel
-http://landiptv.live:8080/live/alejandro/alejandro/87719.ts
-#EXTINF:-1,US: BYU Sports HD
-http://landiptv.live:8080/live/alejandro/alejandro/87726.ts
-#EXTINF:-1,US: CNN News
-http://landiptv.live:8080/live/alejandro/alejandro/87728.ts
-#EXTINF:-1,US: FIX TV HD
-http://landiptv.live:8080/live/alejandro/alejandro/87731.ts
-#EXTINF:-1,US: MLBTV extra innings
-http://landiptv.live:8080/live/alejandro/alejandro/87734.ts
-#EXTINF:-1,US: AFN Movies
-http://landiptv.live:8080/live/alejandro/alejandro/87743.ts
-#EXTINF:-1,US: MTV +1
-http://landiptv.live:8080/live/alejandro/alejandro/87761.ts
-#EXTINF:-1,US: EPIX 1 HD
-http://landiptv.live:8080/live/alejandro/alejandro/87771.ts
-#EXTINF:-1,US: Regional WCCB News Rising HD
-http://landiptv.live:8080/live/alejandro/alejandro/76690.ts
-#EXTINF:-1,US: Regional TVW2
-http://landiptv.live:8080/live/alejandro/alejandro/76694.ts
-#EXTINF:-1,US: Regional TVW HD
-http://landiptv.live:8080/live/alejandro/alejandro/76695.ts
-#EXTINF:-1,US: Regional Town of Vienna Community Network HD
-http://landiptv.live:8080/live/alejandro/alejandro/76697.ts
-#EXTINF:-1,US: Regional Temple TV
-http://landiptv.live:8080/live/alejandro/alejandro/76699.ts
-#EXTINF:-1,US: Regional Seminole TV
-http://landiptv.live:8080/live/alejandro/alejandro/76702.ts
-#EXTINF:-1,US: Regional Orange TV
-http://landiptv.live:8080/live/alejandro/alejandro/76706.ts
-#EXTINF:-1,US: Regional New Orleans TV HD
-http://landiptv.live:8080/live/alejandro/alejandro/76711.ts
-#EXTINF:-1,US: Regional NBC5 News (WMAQ-TV)
-http://landiptv.live:8080/live/alejandro/alejandro/76712.ts
-#EXTINF:-1,US: Regional NBC4 New York News (WNBC-TV)
-http://landiptv.live:8080/live/alejandro/alejandro/76717.ts
-#EXTINF:-1,US: Regional NBC News Channel 13 (WNYT-TV) HD
-http://landiptv.live:8080/live/alejandro/alejandro/76720.ts
-#EXTINF:-1,US: Regional NBC 6 South Florida (WTVJ-TV)
-http://landiptv.live:8080/live/alejandro/alejandro/76724.ts
-#EXTINF:-1,US: Regional Key TV HD
-http://landiptv.live:8080/live/alejandro/alejandro/76735.ts
-#EXTINF:-1,US: Regional House of Representatives
-http://landiptv.live:8080/live/alejandro/alejandro/76737.ts
-#EXTINF:-1,US: Regional Greenbelt TV
-http://landiptv.live:8080/live/alejandro/alejandro/76738.ts
-#EXTINF:-1,US: Regional Daytona Beach TV
-http://landiptv.live:8080/live/alejandro/alejandro/76748.ts
-#EXTINF:-1,US: Regional Buffalo TV
-http://landiptv.live:8080/live/alejandro/alejandro/76750.ts
-#EXTINF:-1,US: Regional Bowie TV
-http://landiptv.live:8080/live/alejandro/alejandro/76751.ts
-#EXTINF:-1,US: Regional Atlanta Channel HD
-http://landiptv.live:8080/live/alejandro/alejandro/76755.ts
-#EXTINF:-1,US: Regional Beach TV 30A HD
-http://landiptv.live:8080/live/alejandro/alejandro/96240.ts
-#EXTINF:-1,US: Regional Beach TV Panama City HD
-http://landiptv.live:8080/live/alejandro/alejandro/96241.ts
-#EXTINF:-1,US: Regional Beach TV Pawleys Island HD
-http://landiptv.live:8080/live/alejandro/alejandro/96242.ts
-#EXTINF:-1,US: Regional Capital City Connection
-http://landiptv.live:8080/live/alejandro/alejandro/96243.ts
-#EXTINF:-1,US: Regional District Knowledge Network HD
-http://landiptv.live:8080/live/alejandro/alejandro/96244.ts
-#EXTINF:-1,US: Regional District of Columbia Network HD
-http://landiptv.live:8080/live/alejandro/alejandro/96245.ts
-#EXTINF:-1,US: Regional Fox 5 Washington DC (WTTG-TV)
-http://landiptv.live:8080/live/alejandro/alejandro/96246.ts
-#EXTINF:-1,US: Regional Garland TV HD
-http://landiptv.live:8080/live/alejandro/alejandro/96247.ts
-#EXTINF:-1,US: Regional KBVR TV FHD
-http://landiptv.live:8080/live/alejandro/alejandro/96248.ts
-#EXTINF:-1,US: Regional KOB4 News
-http://landiptv.live:8080/live/alejandro/alejandro/96249.ts
-#EXTINF:-1,US: Regional KPNX Breaking 1 HD
-http://landiptv.live:8080/live/alejandro/alejandro/96250.ts
-#EXTINF:-1,US: Regional KXAN News HD
-http://landiptv.live:8080/live/alejandro/alejandro/96251.ts
-#EXTINF:-1,US: Regional NBC 12 News (WWBT-TV) HD
-http://landiptv.live:8080/live/alejandro/alejandro/96253.ts
-#EXTINF:-1,US: Regional NBC Bay Area (KNTV-TV)
-http://landiptv.live:8080/live/alejandro/alejandro/96254.ts
-#EXTINF:-1,US: Regional News4 (WRC-TV)
-http://landiptv.live:8080/live/alejandro/alejandro/96256.ts
-#EXTINF:-1,US: Regional NewsChannel 12 KTVZ
-http://landiptv.live:8080/live/alejandro/alejandro/96257.ts
-#EXTINF:-1,US: Regional NewsWest 9 KWES
-http://landiptv.live:8080/live/alejandro/alejandro/96258.ts
-#EXTINF:-1,US: Regional PGCPS
-http://landiptv.live:8080/live/alejandro/alejandro/96259.ts
-#EXTINF:-1,US: Regional Southeastern Channel HD
-http://landiptv.live:8080/live/alejandro/alejandro/96261.ts
-#EXTINF:-1,US: Regional TSTV HD
-http://landiptv.live:8080/live/alejandro/alejandro/96262.ts
-#EXTINF:-1,US: Regional WBTV News HD
-http://landiptv.live:8080/live/alejandro/alejandro/96263.ts
-#EXTINF:-1,US: Regional WLNY 1055 HD
-http://landiptv.live:8080/live/alejandro/alejandro/96264.ts
-#EXTINF:-1,US: Regional WUSA9 Breaking News HD
-http://landiptv.live:8080/live/alejandro/alejandro/96265.ts
-#EXTINF:-1,US: ME TV
-http://landiptv.live:8080/live/alejandro/alejandro/96267.ts
-#EXTINF:-1,US: Tennis Channel FHD
-http://landiptv.live:8080/live/alejandro/alejandro/75138.ts
-#EXTINF:-1,US: ABC Big 5 Networks FHD
-http://landiptv.live:8080/live/alejandro/alejandro/91525.ts
-#EXTINF:-1,US: NBC - Big 5 Networks FHD
-http://landiptv.live:8080/live/alejandro/alejandro/91540.ts
-#EXTINF:-1,US: Paramount Network HD
-http://landiptv.live:8080/live/alejandro/alejandro/95136.ts
-#EXTINF:-1,US: beIN Sports FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95148.ts
-#EXTINF:-1,US: Investigation Discovery FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95155.ts
-#EXTINF:-1,US: VH 1 FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95160.ts
-#EXTINF:-1,US: MTV FHD
-http://landiptv.live:8080/live/alejandro/alejandro/95163.ts
-#EXTINF:-1,US: Regional NBC Bay Area Traffic Cam (KNTV-TV)
-http://landiptv.live:8080/live/alejandro/alejandro/96358.ts
-#EXTINF:-1,US: NFL RedZone (Live on GameDay)
-http://landiptv.live:8080/live/alejandro/alejandro/80001.ts
-#EXTINF:-1,US: THE WALKING DEAD
-http://landiptv.live:8080/live/alejandro/alejandro/80021.ts
-#EXTINF:-1,US: University of California TV
-http://landiptv.live:8080/live/alejandro/alejandro/80023.ts
-#EXTINF:-1,US: Music Choice HIP-HOP
-http://landiptv.live:8080/live/alejandro/alejandro/92479.ts
-#EXTINF:-1,US: Music Choice RAP
-http://landiptv.live:8080/live/alejandro/alejandro/92480.ts
-#EXTINF:-1,US: Hallmark Movies
-http://landiptv.live:8080/live/alejandro/alejandro/94890.ts
-#EXTINF:-1,US: AL JAZEERA
-http://landiptv.live:8080/live/alejandro/alejandro/96370.ts
-#EXTINF:-1,US: beIN Sports USA HD
-http://landiptv.live:8080/live/alejandro/alejandro/96372.ts
-#EXTINF:-1,US: Cinemax Thriller
-http://landiptv.live:8080/live/alejandro/alejandro/96377.ts
-#EXTINF:-1,US: Comedy CENTRAL HD
-http://landiptv.live:8080/live/alejandro/alejandro/96379.ts
-#EXTINF:-1,US: Cooking
-http://landiptv.live:8080/live/alejandro/alejandro/96380.ts
-#EXTINF:-1,US: country music television
-http://landiptv.live:8080/live/alejandro/alejandro/96381.ts
-#EXTINF:-1,US: CW Channel 11
-http://landiptv.live:8080/live/alejandro/alejandro/96382.ts
-#EXTINF:-1,US: EPL LeSports Premier League 1 [FHD]
-http://landiptv.live:8080/live/alejandro/alejandro/96386.ts
-#EXTINF:-1,US: EPL LeSports Premier League 2 [FHD]
-http://landiptv.live:8080/live/alejandro/alejandro/96387.ts
-#EXTINF:-1,US: EPL Sports Pick 1 HD
-http://landiptv.live:8080/live/alejandro/alejandro/96388.ts
-#EXTINF:-1,US: EPL Sportsnet One HD
-http://landiptv.live:8080/live/alejandro/alejandro/96389.ts
-#EXTINF:-1,US: EPL Sportsnet Ontario HD
-http://landiptv.live:8080/live/alejandro/alejandro/96390.ts
-#EXTINF:-1,US: EPL Sportsnet West HD
-http://landiptv.live:8080/live/alejandro/alejandro/96392.ts
-#EXTINF:-1,US: EPL SportsNet World HD
-http://landiptv.live:8080/live/alejandro/alejandro/96393.ts
-#EXTINF:-1,US: HBO Comedy HD East
-http://landiptv.live:8080/live/alejandro/alejandro/96400.ts
-#EXTINF:-1,US: Movietime TV
-http://landiptv.live:8080/live/alejandro/alejandro/96404.ts
-#EXTINF:-1,US: Music Choice 90's
-http://landiptv.live:8080/live/alejandro/alejandro/96406.ts
-#EXTINF:-1,US: NBA LEAGUE PASS 1
-http://landiptv.live:8080/live/alejandro/alejandro/96408.ts
-#EXTINF:-1,US: NFL Network HDTV
-http://landiptv.live:8080/live/alejandro/alejandro/96410.ts
-#EXTINF:-1,US: NHL 1 HD Match Event
-http://landiptv.live:8080/live/alejandro/alejandro/96411.ts
-#EXTINF:-1,US: NHL 3 HD Match Event
-http://landiptv.live:8080/live/alejandro/alejandro/96413.ts
-#EXTINF:-1,US: NHL 5 HD Match Event
-http://landiptv.live:8080/live/alejandro/alejandro/96415.ts
-#EXTINF:-1,US: RDS2 HD TV
-http://landiptv.live:8080/live/alejandro/alejandro/96420.ts
-#EXTINF:-1,US: QVC Plus
-http://landiptv.live:8080/live/alejandro/alejandro/96421.ts
-#EXTINF:-1,US: Showtime Family
-http://landiptv.live:8080/live/alejandro/alejandro/96422.ts
-#EXTINF:-1,US: Sportnet Pacific HD
-http://landiptv.live:8080/live/alejandro/alejandro/96423.ts
-#EXTINF:-1,US: Starz Kids
-http://landiptv.live:8080/live/alejandro/alejandro/96424.ts
-#EXTINF:-1,US: Teletoon HD
-http://landiptv.live:8080/live/alejandro/alejandro/96431.ts
-#EXTINF:-1,US: YTV HD
-http://landiptv.live:8080/live/alejandro/alejandro/96436.ts
-#EXTINF:-1,US: Starz Encore Classic FHD
-http://landiptv.live:8080/live/alejandro/alejandro/97655.ts
-#EXTINF:-1,US: Starz Encore Family FHD
-http://landiptv.live:8080/live/alejandro/alejandro/97656.ts
-#EXTINF:-1,US: Starz Encore West FHD
-http://landiptv.live:8080/live/alejandro/alejandro/97657.ts
-#EXTINF:-1,US: Starz Encore Western FHD
-http://landiptv.live:8080/live/alejandro/alejandro/97658.ts
-#EXTINF:-1,US: Starz FHD
-http://landiptv.live:8080/live/alejandro/alejandro/97659.ts
+http://vtv.selfip.net:8080/live/01/02/1298.ts
+#EXTINF:-1,US: NFL Network
+http://vtv.selfip.net:8080/live/01/02/1297.ts
+#EXTINF:-1,US: SportsNet One HD
+http://vtv.selfip.net:8080/live/01/02/1354.ts
+#EXTINF:-1,US: NFL HD
+http://vtv.selfip.net:8080/live/01/02/2075.ts
+#EXTINF:-1,US: ABC News US
+http://vtv.selfip.net:8080/live/01/02/254.ts
+#EXTINF:-1,US: WHOH-TV
+http://vtv.selfip.net:8080/live/01/02/1839.ts
+#EXTINF:-1,US: BronxNet
+http://vtv.selfip.net:8080/live/01/02/1846.ts
+#EXTINF:-1,US: PATV
+http://vtv.selfip.net:8080/live/01/02/1841.ts
+#EXTINF:-1,UK: BBC One
+http://vtv.selfip.net:8080/live/01/02/1104.ts
+#EXTINF:-1,UK: BBC Two
+http://vtv.selfip.net:8080/live/01/02/1105.ts
+#EXTINF:-1,UK: BBC Three
+http://vtv.selfip.net:8080/live/01/02/1106.ts
+#EXTINF:-1,UK: BBC Four
+http://vtv.selfip.net:8080/live/01/02/1107.ts
+#EXTINF:-1,UK: itv 1
+http://vtv.selfip.net:8080/live/01/02/1092.ts
+#EXTINF:-1,UK: itv 2
+http://vtv.selfip.net:8080/live/01/02/1085.ts
+#EXTINF:-1,UK: itv 3
+http://vtv.selfip.net:8080/live/01/02/1082.ts
+#EXTINF:-1,UK: itv 4
+http://vtv.selfip.net:8080/live/01/02/1083.ts
+#EXTINF:-1,UK: ID Fashion HD
+http://vtv.selfip.net:8080/live/01/02/1084.ts
+#EXTINF:-1,UK: Sky News
+http://vtv.selfip.net:8080/live/01/02/2026.ts
+#EXTINF:-1,UK: Movies4Men
+http://vtv.selfip.net:8080/live/01/02/1081.ts
+#EXTINF:-1,UK: Sky One HD
+http://vtv.selfip.net:8080/live/01/02/2325.ts
+#EXTINF:-1,UK: Sky Two HD
+http://vtv.selfip.net:8080/live/01/02/2327.ts
+#EXTINF:-1,UK: Sky Atlantic HD
+http://vtv.selfip.net:8080/live/01/02/2326.ts
+#EXTINF:-1,UK: Sony Movies HD
+http://vtv.selfip.net:8080/live/01/02/1080.ts
+#EXTINF:-1,UK: London Live
+http://vtv.selfip.net:8080/live/01/02/448.ts
+#EXTINF:-1,UK: Sky Crime/Thriler HD
+http://vtv.selfip.net:8080/live/01/02/1077.ts
+#EXTINF:-1,UK: Sky Drama/Romance HD
+http://vtv.selfip.net:8080/live/01/02/1075.ts
+#EXTINF:-1,UK: Sky Arts HD
+http://vtv.selfip.net:8080/live/01/02/1073.ts
+#EXTINF:-1,UK: Sky Scfi/Horror HD
+http://vtv.selfip.net:8080/live/01/02/1074.ts
+#EXTINF:-1,UK: Sky Premiere HD
+http://vtv.selfip.net:8080/live/01/02/1078.ts
+#EXTINF:-1,UK: Sky Living HD
+http://vtv.selfip.net:8080/live/01/02/1079.ts
+#EXTINF:-1,UK: Sky Famely HD
+http://vtv.selfip.net:8080/live/01/02/1076.ts
+#EXTINF:-1,UK: Sky Comedy HD
+http://vtv.selfip.net:8080/live/01/02/1071.ts
+#EXTINF:-1,UK: Sky Action & Advanture HD
+http://vtv.selfip.net:8080/live/01/02/1070.ts
